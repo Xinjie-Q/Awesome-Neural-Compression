@@ -19,3 +19,16 @@ Recent papers and codes related to deep learning/deep neural network based image
 
 ### NIPS
 * *Shifeng Zhang, Ning Kang, Tom Ryder, Zhenguo Li*, iFlow: Numerically Invertible Flows for Efficient Lossless Compression via a Uniform Coder. [[paper]](https://arxiv.org/abs/2111.00965)
+* *George Zhang, Jingjing Qian, Jun Chen, Ashish Khisti*, Universal Rate-Distortion-Perception Representations for Lossy Compression. [[paper]](https://arxiv.org/abs/2106.10311)
+* * *Yann Dubois, Benjamin Bloem-Reddy, Karen Ullrich, Chris J. Maddison*, Lossy Compression for Lossless Prediction. [[paper]](https://arxiv.org/abs/2106.10800)
+* * *Jiahao Li, Bin Li, Yan Lu*, Deep Contextual Video Compression. [[paper]](https://arxiv.org/abs/2109.15047v2)
+* * *Chen Zhang, Shifeng Zhang, Fabio Maria Carlucci, Zhenguo Li*, OSOA: One-Shot Online Adaptation of Deep Generative Models for Lossless Compression. [[paper]](https://arxiv.org/abs/2111.01662v1)
+* * *Siddharth Reddy, Anca D. Dragan, Sergey Levine*, Pragmatic Image Compression for Human-in-the-Loop Decision-Making. [[paper]](https://arxiv.org/abs/2108.04219)
+
+### ICCV
+* * *Shifeng Zhang, Ning Kang, Tom Ryder, Zhenguo Li*, iFlow: Numerically Invertible Flows for Efficient Lossless Compression via a Uniform Coder. [[paper]](https://arxiv.org/abs/2111.00965)
+* * *Shifeng Zhang, Ning Kang, Tom Ryder, Zhenguo Li*, iFlow: Numerically Invertible Flows for Efficient Lossless Compression via a Uniform Coder. [[paper]](https://arxiv.org/abs/2111.00965)
+* * *Shifeng Zhang, Ning Kang, Tom Ryder, Zhenguo Li*, iFlow: Numerically Invertible Flows for Efficient Lossless Compression via a Uniform Coder. [[paper]](https://arxiv.org/abs/2111.00965)
+* * *Shifeng Zhang, Ning Kang, Tom Ryder, Zhenguo Li*, iFlow: Numerically Invertible Flows for Efficient Lossless Compression via a Uniform Coder. [[paper]](https://arxiv.org/abs/2111.00965)
+* * *Shifeng Zhang, Ning Kang, Tom Ryder, Zhenguo Li*, iFlow: Numerically Invertible Flows for Efficient Lossless Compression via a Uniform Coder. [[paper]](https://arxiv.org/abs/2111.00965)
+* * *Shifeng Zhang, Ning Kang, Tom Ryder, Zhenguo Li*, iFlow: Numerically Invertible Flows for Efficient Lossless Compression via a Uniform Coder. [[paper]](https://arxiv.org/abs/2111.00965)
