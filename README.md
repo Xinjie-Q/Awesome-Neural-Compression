@@ -16,3 +16,6 @@ Recent papers and codes related to deep learning/deep neural network based image
 * Ze Cui, Jing Wang, Shangyin Gao, Tiansheng Guo, Yihui Feng, Bo Bai: Asymmetric Gained Deep Image Compression With Continuous Rate Adaptation. [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Cui_Asymmetric_Gained_Deep_Image_Compression_With_Continuous_Rate_Adaptation_CVPR_2021_paper.pdf)
 * Tianyu Ding, Luming Liang, Zhihui Zhu, Ilya Zharkov: CDFI: Compression-Driven Network Design for Frame Interpolation. [[paper]](https://arxiv.org/abs/2103.10559)
 * Zizheng Que, Guo Lu, Dong Xu: VoxelContext-Net: An Octree Based Framework for Point Cloud Compression. [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Que_VoxelContext-Net_An_Octree_Based_Framework_for_Point_Cloud_Compression_CVPR_2021_paper.pdf)
+
+### NIPS
+* *Shifeng Zhang, Ning Kang, Tom Ryder, Zhenguo Li*, iFlow: Numerically Invertible Flows for Efficient Lossless Compression via a Uniform Coder. [[paper]](https://arxiv.org/abs/2111.00965)
