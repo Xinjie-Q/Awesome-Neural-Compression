@@ -1,6 +1,15 @@
 # Deep-Data-Compression
 Recent papers and codes related to deep learning/deep neural network based data compression including images, videos and point clouds. 
 
+## 2022
+### ICLR
+* *Anji Liu, Stephan Mandt, Guy Van den Broeck*, Lossless Compression with Probabilistic Circuits. [[paper]](https://arxiv.org/abs/2111.11632)
+* *Huan Liu, George Zhang, Jun Chen, Ashish J Khisti*, Lossy Compression with Distribution Shift as Entropy Constrained Optimal Transport. [[paper]](https://openreview.net/forum?id=BRFWxcZfAdC)
+* *Yichen Qian, Ming Lin, Xiuyu Sun, Zhiyu Tan, Rong Jin*, Entroformer: A Transformer-based Entropy Model for Learned Image Compression. [[paper]](https://arxiv.org/abs/2202.05492)
+* *Yibo Yang, Stephan Mandt*, Towards Empirical Sandwich Bounds on the Rate-Distortion Function. [[paper]](https://arxiv.org/abs/2111.12166)
+* *Yinhao Zhu, Yang Yang, Taco Cohen*, Transformer-based Transform Coding. [[paper]](https://openreview.net/forum?id=IDwN6xjHnK8)
+* *Emiel Hoogeboom, Alexey A. Gritsenko, Jasmijn Bastings, Ben Poole, Rianne van den Berg, Tim Salimans*, Autoregressive Diffusion Models. [[paper]](https://arxiv.org/abs/2110.02037)
+
 ## 2021
 ### CVPR
 * *Shifeng Zhang, Chen Zhang, Ning Kang, Zhenguo Li*, iVPF: Numerical Invertible Volume Preserving Flow for Efficient Lossless Compression. [[paper]](https://arxiv.org/abs/2103.16211)
@@ -17,17 +26,23 @@ Recent papers and codes related to deep learning/deep neural network based data 
 * *Tianyu Ding, Luming Liang, Zhihui Zhu, Ilya Zharkov*, CDFI: Compression-Driven Network Design for Frame Interpolation. [[paper]](https://arxiv.org/abs/2103.10559)
 * *Zizheng Que, Guo Lu, Dong Xu*, VoxelContext-Net: An Octree Based Framework for Point Cloud Compression. [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Que_VoxelContext-Net_An_Octree_Based_Framework_for_Point_Cloud_Compression_CVPR_2021_paper.pdf)
 
+### ICCV
+* *Jan P. Klopp, Keng-Chi Liu, Shao-Yi Chien, Liang-Gee Chen*, Online-Trained Upsampler for Deep Low Complexity Video Compression. [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Klopp_Online-Trained_Upsampler_for_Deep_Low_Complexity_Video_Compression_ICCV_2021_paper.pdf)
+* *Xueyang Fu, Xi Wang, Aiping Liu, Junwei Han, Zheng-Jun Zha*, Learning Dual Priors for JPEG Compression Artifacts Removal. [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Fu_Learning_Dual_Priors_for_JPEG_Compression_Artifacts_Removal_ICCV_2021_paper.pdf)
+* *Myungseo Song, Jinyoung Choi, Bohyung Han*, Variable-Rate Deep Image Compression Through Spatially-Adaptive Feature Transform. [[paper]](https://arxiv.org/abs/2108.09551)
+* *Ge Gao, Pei You, Rong Pan, Shunyuan Han, Yuanyuan Zhang, Yuchao Dai, Hojae Lee*, Neural Image Compression via Attentional Multi-Scale Back Projection and Frequency Decomposition. [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Gao_Neural_Image_Compression_via_Attentional_Multi-Scale_Back_Projection_and_Frequency_ICCV_2021_paper.pdf)
+* *Mehrdad Khani, Vibhaalakshmi Sivaraman, Mohammad Alizadeh*, Efficient Video Compression via Content-Adaptive Super-Resolution. [[paper]](https://arxiv.org/abs/2104.02322)
+
 ### NIPS
 * *Shifeng Zhang, Ning Kang, Tom Ryder, Zhenguo Li*, iFlow: Numerically Invertible Flows for Efficient Lossless Compression via a Uniform Coder. [[paper]](https://arxiv.org/abs/2111.00965)
 * *George Zhang, Jingjing Qian, Jun Chen, Ashish Khisti*, Universal Rate-Distortion-Perception Representations for Lossy Compression. [[paper]](https://arxiv.org/abs/2106.10311)
-* * *Yann Dubois, Benjamin Bloem-Reddy, Karen Ullrich, Chris J. Maddison*, Lossy Compression for Lossless Prediction. [[paper]](https://arxiv.org/abs/2106.10800)
-* * *Jiahao Li, Bin Li, Yan Lu*, Deep Contextual Video Compression. [[paper]](https://arxiv.org/abs/2109.15047v2)
-* * *Chen Zhang, Shifeng Zhang, Fabio Maria Carlucci, Zhenguo Li*, OSOA: One-Shot Online Adaptation of Deep Generative Models for Lossless Compression. [[paper]](https://arxiv.org/abs/2111.01662v1)
-* * *Siddharth Reddy, Anca D. Dragan, Sergey Levine*, Pragmatic Image Compression for Human-in-the-Loop Decision-Making. [[paper]](https://arxiv.org/abs/2108.04219)
+* *Yann Dubois, Benjamin Bloem-Reddy, Karen Ullrich, Chris J. Maddison*, Lossy Compression for Lossless Prediction. [[paper]](https://arxiv.org/abs/2106.10800)
+* *Jiahao Li, Bin Li, Yan Lu*, Deep Contextual Video Compression. [[paper]](https://arxiv.org/abs/2109.15047v2)
+* *Chen Zhang, Shifeng Zhang, Fabio Maria Carlucci, Zhenguo Li*, OSOA: One-Shot Online Adaptation of Deep Generative Models for Lossless Compression. [[paper]](https://arxiv.org/abs/2111.01662v1)
+* *Siddharth Reddy, Anca D. Dragan, Sergey Levine*, Pragmatic Image Compression for Human-in-the-Loop Decision-Making. [[paper]](https://arxiv.org/abs/2108.04219)
 
-### ICCV
-* * *Jan P. Klopp, Keng-Chi Liu, Shao-Yi Chien, Liang-Gee Chen*, Online-Trained Upsampler for Deep Low Complexity Video Compression. [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Klopp_Online-Trained_Upsampler_for_Deep_Low_Complexity_Video_Compression_ICCV_2021_paper.pdf)
-* * *Xueyang Fu, Xi Wang, Aiping Liu, Junwei Han, Zheng-Jun Zha*, Learning Dual Priors for JPEG Compression Artifacts Removal. [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Fu_Learning_Dual_Priors_for_JPEG_Compression_Artifacts_Removal_ICCV_2021_paper.pdf)
-* * *Myungseo Song, Jinyoung Choi, Bohyung Han*, Variable-Rate Deep Image Compression Through Spatially-Adaptive Feature Transform. [[paper]](https://arxiv.org/abs/2108.09551)
-* * *Ge Gao, Pei You, Rong Pan, Shunyuan Han, Yuanyuan Zhang, Yuchao Dai, Hojae Lee*, Neural Image Compression via Attentional Multi-Scale Back Projection and Frequency Decomposition. [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Gao_Neural_Image_Compression_via_Attentional_Multi-Scale_Back_Projection_and_Frequency_ICCV_2021_paper.pdf)
-* * *Mehrdad Khani, Vibhaalakshmi Sivaraman, Mohammad Alizadeh*, Efficient Video Compression via Content-Adaptive Super-Resolution. [[paper]](https://arxiv.org/abs/2104.02322)
+### ICLR
+* *Ruihan Yang, Yibo Yang, Joseph Marino, Stephan Mandt*, Hierarchical Autoregressive Modeling for Neural Video Compression. [[paper]](https://arxiv.org/abs/2010.10258)
+
+* 
+
