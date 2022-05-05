@@ -80,3 +80,23 @@ Recent papers and codes related to deep learning/deep neural network based data 
 ### AAAI
 * *Mohammad Akbari, Jie Liang, Jingning Han, Chengjie Tu*, Learned Bi-Resolution Image Coding Using Generalized Octave Convolutions. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/16816)
 
+## 2020
+### CVPR
+
+### ECCV
+
+### NIPS
+
+### ICLR
+* *James Townsend, Thomas Bird, Julius Kunze, David Barber*, HiLLoC: lossless image compression with hierarchical latent variable models . [[paper]](https://arxiv.org/abs/1912.09953)
+
+### ICML
+* *Sicong Huang, Alireza Makhzani, Yanshuai Cao, Roger Grosse*, Evaluating Lossy Compression Rates of Deep Generative Models. [[paper]](https://arxiv.org/abs/2008.06653)
+
+### AAAI
+* *Yueyu Hu, Wenhan Yang, Jiaying Liu*, Coarse-to-Fine Hyper-Prior Modeling for Learned Image Compression. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6736)
+* *Haojie Liu, Han shen, Lichao Huang, Ming Lu, Tong Chen, Zhan Ma*, Learned Video Compression via Joint Spatial-Temporal Correlation Exploration. [[paper]](https://arxiv.org/abs/1912.06348)
+
+### IJCAI
+* *Zhisheng Zhong, Hiroaki Akutsu, Kiyoharu Aizawa*, Channel-Level Variable Quantization Network for Deep Image Compression. [[paper]](https://www.ijcai.org/proceedings/2020/0065.pdf)
+* *Menglu Wang, Xueyang Fu, Zepei Sun, Zheng-Jun Zha*, JPEG Artifacts Removal via Compression Quality Ranker-Guided Networks. [[paper]](https://www.ijcai.org/proceedings/2020/0079.pdf)
