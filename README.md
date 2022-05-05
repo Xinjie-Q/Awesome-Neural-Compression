@@ -3,8 +3,14 @@ Recent papers and codes related to deep learning/deep neural network based data 
 
 ## 2022
 ### CVPR
+* *Xiaosu Zhu, Jingkuan Song, Lianli Gao, Feng Zheng, Heng Tao Shen*, Unified Multivariate Gaussian Mixture for Efficient Neural Image Compression. [[paper]](https://arxiv.org/abs/2203.10897)[[code]](https://github.com/xiaosu-zhu/McQuic)
+* *Dailan He, Ziming Yang, Weikun Peng, Rui Ma, Hongwei Qin, Yan Wang*, ELIC: Efficient Learned Image Compression with Unevenly Grouped Space-Channel Contextual Adaptive Coding. [[paper]](https://arxiv.org/abs/2203.10886)
+* *Renjie Zou, Chunfeng Song, Zhaoxiang Zhang*, The Devil Is in the Details: Window-based Attention for Image Compression. [[paper]](https://arxiv.org/abs/2203.08450)[[code]](https://github.com/Googolxx/STF)
+* *Dezhao Wang, Wenhan Yang, Yueyu Hu, Jiaying Liu*, Neural Data-Dependent Transform for Learned Image Compression. [[paper]](https://arxiv.org/abs/2203.04963)[[code]](https://dezhao-wang.github.io/Neural-Syntax-Website/)
 
 ### ECCV
+
+### NIPS
 
 ### ICLR
 * *Anji Liu, Stephan Mandt, Guy Van den Broeck*, Lossless Compression with Probabilistic Circuits. [[paper]](https://arxiv.org/abs/2111.11632)
@@ -17,7 +23,11 @@ Recent papers and codes related to deep learning/deep neural network based data 
 ### ICML
 
 ### AAAI
-
+* *Yuanchao Bai, Xu Yang, Xianming Liu, Junjun Jiang, Yaowei Wang, Xiangyang Ji, Wen Gao*, Towards End-to-End Image Compression and Analysis with Transformers. [[paper]](https://arxiv.org/abs/2112.09300)
+* *Fangdong Chen, Yumeng Xu, Li Wang*, Two-Stage Octave Residual Network for End-to-End Image Compression. [[paper]]()
+* *Linfeng Cao, Aofan Jiang, Wei Li, Huaying Wu, Nanyang Ye*, OoDHDR-Codec: Out-of-Distribution Generalization for HDR Image Compression. [[paper]]()
+* *Chunyang Fu, Ge Li, Rui Song, Wei Gao, Shan Liu*, OctAttention: Octree-Based Large-Scale Contexts Model for Point Cloud Compression. [[paper]](https://arxiv.org/abs/2202.06028v1)
+ 
 ### IJCAI
 
 
@@ -69,6 +79,4 @@ Recent papers and codes related to deep learning/deep neural network based data 
 
 ### AAAI
 * *Mohammad Akbari, Jie Liang, Jingning Han, Chengjie Tu*, Learned Bi-Resolution Image Coding Using Generalized Octave Convolutions. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/16816)
-
-### IJCAI
 
