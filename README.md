@@ -35,7 +35,6 @@ Recent papers and codes related to deep learning/deep neural network based data 
 ### CVPR
 * *Zhihao Hu, Guo Lu, Dong Xu*, FVC: A New Framework towards Deep Video Compression in Feature Space. [[paper]](https://arxiv.org/abs/2105.09600)
 * *Bowen Liu, Yu Chen, Shiyu Liu, Hun-Seok Kim*, Deep Learning in Latent Space for Video Prediction and Compression. [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Deep_Learning_in_Latent_Space_for_Video_Prediction_and_Compression_CVPR_2021_paper.pdf)
-* *Tianyu Ding, Luming Liang, Zhihui Zhu, Ilya Zharkov*, CDFI: Compression-Driven Network Design for Frame Interpolation. [[paper]](https://arxiv.org/abs/2103.10559)
 * *Aaron Chadha, Yiannis Andreopoulos*, Deep Perceptual Preprocessing for Video Coding. [[paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Chadha_Deep_Perceptual_Preprocessing_for_Video_Coding_CVPR_2021_paper.html)
 * *Shifeng Zhang, Chen Zhang, Ning Kang, Zhenguo Li*, iVPF: Numerical Invertible Volume Preserving Flow for Efficient Lossless Compression. [[paper]](https://arxiv.org/abs/2103.16211)
 * *Jan P. Klopp, Keng-Chi Liu, Liang-Gee Chen, Shao-Yi Chien*, How to Exploit the Transferability of Learned Image Compression to Conventional Codecs. [[paper]](https://arxiv.org/abs/2012.01874)
