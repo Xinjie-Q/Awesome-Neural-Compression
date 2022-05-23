@@ -59,20 +59,19 @@ Recent papers and codes related to deep learning/deep neural network based data 
 
 
 ### NIPS
+* *Jiahao Li, Bin Li, Yan Lu*, Deep Contextual Video Compression. [[paper]](https://arxiv.org/abs/2109.15047v2)
 * *Shifeng Zhang, Ning Kang, Tom Ryder, Zhenguo Li*, iFlow: Numerically Invertible Flows for Efficient Lossless Compression via a Uniform Coder. [[paper]](https://arxiv.org/abs/2111.00965)
 * *George Zhang, Jingjing Qian, Jun Chen, Ashish Khisti*, Universal Rate-Distortion-Perception Representations for Lossy Compression. [[paper]](https://arxiv.org/abs/2106.10311)
 * *Yann Dubois, Benjamin Bloem-Reddy, Karen Ullrich, Chris J. Maddison*, Lossy Compression for Lossless Prediction. [[paper]](https://arxiv.org/abs/2106.10800)
-* *Jiahao Li, Bin Li, Yan Lu*, Deep Contextual Video Compression. [[paper]](https://arxiv.org/abs/2109.15047v2)
 * *Chen Zhang, Shifeng Zhang, Fabio Maria Carlucci, Zhenguo Li*, OSOA: One-Shot Online Adaptation of Deep Generative Models for Lossless Compression. [[paper]](https://arxiv.org/abs/2111.01662v1)
 * *Siddharth Reddy, Anca D. Dragan, Sergey Levine*, Pragmatic Image Compression for Human-in-the-Loop Decision-Making. [[paper]](https://arxiv.org/abs/2108.04219)
 
 ### ICLR
 * *Ruihan Yang, Yibo Yang, Joseph Marino, Stephan Mandt*, Hierarchical Autoregressive Modeling for Neural Video Compression. [[paper]](https://arxiv.org/abs/2010.10258)
-* *Chenlin Meng, Jiaming Song, Yang Song, Shengjia Zhao, Stefano Ermon*, Improved Autoregressive Modeling with Distribution Smoothing. [[paper]](https://arxiv.org/abs/2103.15089)
-* *Ties van Rozendaal, Iris A.M. Huijben, Taco S. Cohen*, Overfitting for Fun and Profit: Instance-Adaptive Data Compression . [[paper]](https://arxiv.org/abs/2101.08687)
-* *Rianne van den Berg, Alexey A. Gritsenko, Mostafa Dehghani, Casper Kaae Sønderby, Tim Salimans*, IDF++: Analyzing and Improving Integer Discrete Flows for Lossless Compression. [[paper]](https://arxiv.org/abs/2006.12459v2)
-* *Ruihan Yang, Yibo Yang, Joseph Marino, Stephan Mandt*, Hierarchical Autoregressive Modeling for Neural Video Compression. [[paper]](https://arxiv.org/abs/2010.10258)
 * *Youngjae Yu, Sangho Lee, Gunhee Kim, Yale Song*, Self-Supervised Learning of Compressed Video Representations. [[paper]](https://openreview.net/forum?id=jMPcEkJpdD)
+* *Ties van Rozendaal, Iris A.M. Huijben, Taco S. Cohen*, Overfitting for Fun and Profit: Instance-Adaptive Data Compression . [[paper]](https://arxiv.org/abs/2101.08687)
+* *Chenlin Meng, Jiaming Song, Yang Song, Shengjia Zhao, Stefano Ermon*, Improved Autoregressive Modeling with Distribution Smoothing. [[paper]](https://arxiv.org/abs/2103.15089)
+* *Rianne van den Berg, Alexey A. Gritsenko, Mostafa Dehghani, Casper Kaae Sønderby, Tim Salimans*, IDF++: Analyzing and Improving Integer Discrete Flows for Lossless Compression. [[paper]](https://arxiv.org/abs/2006.12459v2)
 * *Yichen Qian, Zhiyu Tan, Xiuyu Sun, Ming Lin, Dongyang Li, Zhenhong Sun, Hao Li, Rong Jin*, Learning Accurate Entropy Model with Global Reference for Image Compression. [[paper]](https://arxiv.org/abs/2010.08321)
 
 ### ICML
