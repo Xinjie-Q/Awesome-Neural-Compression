@@ -67,7 +67,7 @@ Recent papers and codes related to deep learning/deep neural network based data 
 * *Siddharth Reddy, Anca D. Dragan, Sergey Levine*, Pragmatic Image Compression for Human-in-the-Loop Decision-Making. [[paper]](https://arxiv.org/abs/2108.04219)
 
 ### ICLR
-* *Ruihan Yang, Yibo Yang, Joseph Marino, Stephan Mandt*, Hierarchical Autoregressive Modeling for Neural Video Compression. [[paper]](https://arxiv.org/abs/2010.10258)
+* *Ruihan Yang, Yibo Yang, Joseph Marino, Stephan Mandt*, Hierarchical Autoregressive Modeling for Neural Video Compression. [[paper]](https://arxiv.org/abs/2010.10258)[[code]](https://github.com/privateyoung/Youtube-NT)
 * *Youngjae Yu, Sangho Lee, Gunhee Kim, Yale Song*, Self-Supervised Learning of Compressed Video Representations. [[paper]](https://openreview.net/forum?id=jMPcEkJpdD)
 * *Ties van Rozendaal, Iris A.M. Huijben, Taco S. Cohen*, Overfitting for Fun and Profit: Instance-Adaptive Data Compression . [[paper]](https://arxiv.org/abs/2101.08687)
 * *Chenlin Meng, Jiaming Song, Yang Song, Shengjia Zhao, Stefano Ermon*, Improved Autoregressive Modeling with Distribution Smoothing. [[paper]](https://arxiv.org/abs/2103.15089)
