@@ -24,8 +24,8 @@ Recent papers and codes related to deep learning/deep neural network based data 
 
 ### AAAI
 * *Yuanchao Bai, Xu Yang, Xianming Liu, Junjun Jiang, Yaowei Wang, Xiangyang Ji, Wen Gao*, Towards End-to-End Image Compression and Analysis with Transformers. [[paper]](https://arxiv.org/abs/2112.09300)
-* *Fangdong Chen, Yumeng Xu, Li Wang*, Two-Stage Octave Residual Network for End-to-End Image Compression. [[paper]]()
-* *Linfeng Cao, Aofan Jiang, Wei Li, Huaying Wu, Nanyang Ye*, OoDHDR-Codec: Out-of-Distribution Generalization for HDR Image Compression. [[paper]]()
+* *Fangdong Chen, Yumeng Xu, Li Wang*, Two-Stage Octave Residual Network for End-to-End Image Compression. [[paper]](https://www.aaai.org/AAAI22Papers/AAAI-4043.ChenF.pdf)
+* *Linfeng Cao, Aofan Jiang, Wei Li, Huaying Wu, Nanyang Ye*, OoDHDR-Codec: Out-of-Distribution Generalization for HDR Image Compression. [[paper]]() [[code]](https://github.com/caolinfeng/OoDHDR-codec)
 * *Chunyang Fu, Ge Li, Rui Song, Wei Gao, Shan Liu*, OctAttention: Octree-Based Large-Scale Contexts Model for Point Cloud Compression. [[paper]](https://arxiv.org/abs/2202.06028v1)
  
 ### IJCAI
