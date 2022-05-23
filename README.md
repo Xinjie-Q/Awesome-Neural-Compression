@@ -50,10 +50,13 @@ Recent papers and codes related to deep learning/deep neural network based data 
 
 ### ICCV
 * *Jan P. Klopp, Keng-Chi Liu, Shao-Yi Chien, Liang-Gee Chen*, Online-Trained Upsampler for Deep Low Complexity Video Compression. [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Klopp_Online-Trained_Upsampler_for_Deep_Low_Complexity_Video_Compression_ICCV_2021_paper.pdf)
+* *Reza Pourreza, Taco S Cohen*, Extending Neural P-Frame Codecs for B-Frame Coding. [[paper]](https://arxiv.org/abs/2104.00531)
+* *Mehrdad Khani, Vibhaalakshmi Sivaraman, Mohammad Alizadeh*, Efficient Video Compression via Content-Adaptive Super-Resolution. [[paper]](https://arxiv.org/abs/2104.02322)
+* *Oren Rippel, Alexander G. Anderson, Kedar Tatwawadi, Sanjay Nair, Craig Lytle, Lubomir Bourdev*, ELF-VC: Efficient Learned Flexible-Rate Video Coding. [[paper]](https://arxiv.org/abs/2104.14335v1)
 * *Xueyang Fu, Xi Wang, Aiping Liu, Junwei Han, Zheng-Jun Zha*, Learning Dual Priors for JPEG Compression Artifacts Removal. [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Fu_Learning_Dual_Priors_for_JPEG_Compression_Artifacts_Removal_ICCV_2021_paper.pdf)
 * *Myungseo Song, Jinyoung Choi, Bohyung Han*, Variable-Rate Deep Image Compression Through Spatially-Adaptive Feature Transform. [[paper]](https://arxiv.org/abs/2108.09551)
 * *Ge Gao, Pei You, Rong Pan, Shunyuan Han, Yuanyuan Zhang, Yuchao Dai, Hojae Lee*, Neural Image Compression via Attentional Multi-Scale Back Projection and Frequency Decomposition. [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Gao_Neural_Image_Compression_via_Attentional_Multi-Scale_Back_Projection_and_Frequency_ICCV_2021_paper.pdf)
-* *Mehrdad Khani, Vibhaalakshmi Sivaraman, Mohammad Alizadeh*, Efficient Video Compression via Content-Adaptive Super-Resolution. [[paper]](https://arxiv.org/abs/2104.02322)
+
 
 ### NIPS
 * *Shifeng Zhang, Ning Kang, Tom Ryder, Zhenguo Li*, iFlow: Numerically Invertible Flows for Efficient Lossless Compression via a Uniform Coder. [[paper]](https://arxiv.org/abs/2111.00965)
