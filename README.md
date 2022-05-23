@@ -44,8 +44,10 @@ Recent papers and codes related to deep learning/deep neural network based data 
 * *Bowen Liu, Yu Chen, Shiyu Liu, Hun-Seok Kim*, Deep Learning in Latent Space for Video Prediction and Compression. [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Deep_Learning_in_Latent_Space_for_Video_Prediction_and_Compression_CVPR_2021_paper.pdf)
 * *Xin Deng, Wenzhe Yang, Ren Yang, Mai Xu, Enpeng Liu, Qianhan Feng, Radu Timofte*, Deep Homography for Efficient Stereo Image Compression. [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Deng_Deep_Homography_for_Efficient_Stereo_Image_Compression_CVPR_2021_paper.pdf)
 * *Ze Cui, Jing Wang, Shangyin Gao, Tiansheng Guo, Yihui Feng, Bo Bai*, Asymmetric Gained Deep Image Compression With Continuous Rate Adaptation. [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Cui_Asymmetric_Gained_Deep_Image_Compression_With_Continuous_Rate_Adaptation_CVPR_2021_paper.pdf)
-* *Tianyu Ding, Luming Liang, Zhihui Zhu, Ilya Zharkov*, CDFI: Compression-Driven Network Design for Frame Interpolation. [[paper]](https://arxiv.org/abs/2103.10559)
+* *Yuval Bahat, Tomer Michaeli*, What's in the Image? Explorable Decoding of Compressed Images. [[paper]](https://arxiv.org/abs/2006.09332)
+* *Aaron Chadha, Yiannis Andreopoulos*, Deep Perceptual Preprocessing for Video Coding. [[paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Chadha_Deep_Perceptual_Preprocessing_for_Video_Coding_CVPR_2021_paper.html)
 * *Zizheng Que, Guo Lu, Dong Xu*, VoxelContext-Net: An Octree Based Framework for Point Cloud Compression. [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Que_VoxelContext-Net_An_Octree_Based_Framework_for_Point_Cloud_Compression_CVPR_2021_paper.pdf)
+
 
 ### ICCV
 * *Jan P. Klopp, Keng-Chi Liu, Shao-Yi Chien, Liang-Gee Chen*, Online-Trained Upsampler for Deep Low Complexity Video Compression. [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Klopp_Online-Trained_Upsampler_for_Deep_Low_Complexity_Video_Compression_ICCV_2021_paper.pdf)
