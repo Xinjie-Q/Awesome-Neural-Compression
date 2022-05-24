@@ -78,7 +78,7 @@ Recent papers and codes related to deep learning/deep neural network based data 
 * *Zongyu Guo, Zhizheng Zhang, Runsen Feng, Zhibo Chen*, Soft then Hard: Rethinking the Quantization in Neural Image Compression. [[paper]](https://arxiv.org/abs/2104.05168)
 * *Yangjun Ruan, Karen Ullrich, Daniel Severo, James Townsend, Ashish Khisti, Arnaud Doucet, Alireza Makhzani, Chris J. Maddison*, Improving Lossless Compression Rates via Monte Carlo Bits-Back Coding. [[paper]](https://arxiv.org/abs/2102.11086)
 * *Zeyu Yan, Fei Wen, Rendong Ying, Chao Ma, Peilin Liu*, On Perceptual Lossy Compression: The Cost of Perceptual Reconstruction and An Optimal Training Framework. [[paper]](https://arxiv.org/abs/2106.02782)
-#### workshop
+** Workshop
 * *Ruihan Yang, Yibo Yang, Joseph Marino, Yang Yang, and Stephan Mandt*, Deep generative video compression with temporal autoregressive transforms. [[paper]](https://invertibleworkshop.github.io/INNF_2020/accepted_papers/pdfs/39.pdf)
 
 
