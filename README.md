@@ -86,25 +86,25 @@ Recent papers and codes related to deep learning/deep neural network based data 
 
 ## 2020
 ### CVPR
-* *Danhang Tang et. al*, Deep Implicit Volume Compression. [[paper]](https://arxiv.org/abs/2005.08877)
 * *Jianping Lin, Dong Liu, Houqiang Li, Feng Wu*, M-LVC: Multiple Frames Prediction for Learned Video Compression. [[paper]](https://arxiv.org/abs/2004.10290)
-* *Lila Huang, Shenlong Wang, Kelvin Wong, Jerry Liu, Raquel Urtasun*, OctSqueeze: Octree-Structured Entropy Model for LiDAR Compression. [[paper]](https://arxiv.org/abs/2005.07178v2)
 * *Ren Yang, Fabian Mentzer, Luc Van Gool, Radu Timofte*, Learning for Video Compression With Hierarchical Quality and Recurrent Enhancement. [[paper]](https://arxiv.org/abs/2003.01966)
 * *Eirikur Agustsson, David Minnen, Nick Johnston, Johannes Balle, Sung Jin Hwang, George Toderici*, Scale-Space Flow for End-to-End Optimized Video Compression. [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Agustsson_Scale-Space_Flow_for_End-to-End_Optimized_Video_Compression_CVPR_2020_paper.pdf)
+* *Rongjie Liu, Meng Li, Li Ma*, Efficient in-situ image and video compression through probabilistic image representation. [[paper]](https://arxiv.org/abs/1912.05622v3)
 * *Zhengxue Cheng, Heming Sun, Masaru Takeuchi, Jiro Katto*, Learned Image Compression With Discretized Gaussian Mixture Likelihoods and Attention Modules. [[paper]](https://arxiv.org/abs/2001.01568)
 * *Fabian Mentzer, Luc Van Gool, Michael Tschannen*, Learning Better Lossless Compression Using Lossy Compression. [[paper]](https://arxiv.org/abs/2003.10184)
 * *Chaoyi Lin, Jiabao Yao, Fangdong Chen, Li Wang*, A Spatial RNN Codec for End-to-End Image Compression. [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Lin_A_Spatial_RNN_Codec_for_End-to-End_Image_Compression_CVPR_2020_paper.pdf)
-* *Rongjie Liu, Meng Li, Li Ma*, Efficient in-situ image and video compression through probabilistic image representation. [[paper]](https://arxiv.org/abs/1912.05622v3)
 * *Innfarn Yoo, Xiyang Luo, Yilin Wang, Feng Yang, Peyman Milanfar*, GIFnets: Differentiable GIF Encoding Framework. [[paper]](https://arxiv.org/abs/2006.13434)
+* *Danhang Tang et. al*, Deep Implicit Volume Compression. [[paper]](https://arxiv.org/abs/2005.08877)
+* *Lila Huang, Shenlong Wang, Kelvin Wong, Jerry Liu, Raquel Urtasun*, OctSqueeze: Octree-Structured Entropy Model for LiDAR Compression. [[paper]](https://arxiv.org/abs/2005.07178v2)
 
 ### ECCV
 * *Zhihao Hu, Zhenghao Chen, Dong Xu, Guo Lu, Wanli Ouyang, Shuhang Gu*, Improving Deep Video Compression by Resolution-adaptive Flow Coding. [[paper]](https://arxiv.org/abs/2009.05982v1)
 * *Guo Lu, Chunlei Cai, Xiaoyun Zhang, Li Chen, Wanli Ouyang, Dong Xu, Zhiyong Gao*, Content Adaptive and Error Propagation Aware Deep Video Compression. [[paper]](https://arxiv.org/abs/2003.11282v1)
+* *Wenyu Sun, Chen Tang, Weigui Li, Zhuqing Yuan, Huazhong Yang, Yongpan Liu*, High-quality Single-model Deep Video Compression with Frame-Conv3D and Multi-frame Differential Modulation. [[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123750239.pdf)
 * *Jianyi Wang, Xin Deng, Mai Xu, Congyong Chen, Yuhang Song*, Multi-level Wavelet-based Generative Adversarial Network for Perceptual Quality Enhancement of Compressed Video. [[paper]](https://arxiv.org/abs/2008.00499)
 * *Jerry Liu, Shenlong Wang, Wei-Chiu Ma, Meet Shah, Rui Hu, Pranaab Dhawan, Raquel Urtasun*, Conditional Entropy Coding for Efficient Video Compression. [[paper]](https://arxiv.org/abs/2008.09180)
 * *Sharon Ayzik, Shai Avidan*, Deep Image Compression using Decoder Side Information. [[paper]](https://arxiv.org/abs/2001.04753)
 * *Jinyoung Choi, Bohyung Han*, Task-Aware Quantization Network for JPEG Image Compression. [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-58565-5_19)
-* *Wenyu Sun, Chen Tang, Weigui Li, Zhuqing Yuan, Huazhong Yang, Yongpan Liu*, High-quality Single-model Deep Video Compression with Frame-Conv3D and Multi-frame Differential Modulation. [[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123750239.pdf)
 
 ### NIPS
 * *Yibo Yang, Robert Bamler, Stephan Mandt*, Improving Inference for Neural Image Compression. [[paper]](https://arxiv.org/abs/2006.04240)
@@ -120,8 +120,8 @@ Recent papers and codes related to deep learning/deep neural network based data 
 * *Sicong Huang, Alireza Makhzani, Yanshuai Cao, Roger Grosse*, Evaluating Lossy Compression Rates of Deep Generative Models. [[paper]](https://arxiv.org/abs/2008.06653)
 
 ### AAAI
-* *Yueyu Hu, Wenhan Yang, Jiaying Liu*, Coarse-to-Fine Hyper-Prior Modeling for Learned Image Compression. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6736)
 * *Haojie Liu, Han shen, Lichao Huang, Ming Lu, Tong Chen, Zhan Ma*, Learned Video Compression via Joint Spatial-Temporal Correlation Exploration. [[paper]](https://arxiv.org/abs/1912.06348)
+* *Yueyu Hu, Wenhan Yang, Jiaying Liu*, Coarse-to-Fine Hyper-Prior Modeling for Learned Image Compression. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6736)
 
 ### IJCAI
 * *Zhisheng Zhong, Hiroaki Akutsu, Kiyoharu Aizawa*, Channel-Level Variable Quantization Network for Deep Image Compression. [[paper]](https://www.ijcai.org/proceedings/2020/0065.pdf)
