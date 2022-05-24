@@ -86,7 +86,7 @@ Recent papers and codes related to deep learning/deep neural network based data 
 
 ## 2020
 ### CVPR
-* *Jianping Lin, Dong Liu, Houqiang Li, Feng Wu*, M-LVC: Multiple Frames Prediction for Learned Video Compression. [[paper]](https://arxiv.org/abs/2004.10290)[[code]] (https://github.com/JianpingLin/M-LVC_CVPR2020)
+* *Jianping Lin, Dong Liu, Houqiang Li, Feng Wu*, M-LVC: Multiple Frames Prediction for Learned Video Compression. [[paper]](https://arxiv.org/abs/2004.10290)[[code]](https://github.com/JianpingLin/M-LVC_CVPR2020)
 * *Ren Yang, Fabian Mentzer, Luc Van Gool, Radu Timofte*, Learning for Video Compression With Hierarchical Quality and Recurrent Enhancement. [[paper]](https://arxiv.org/abs/2003.01966)[[code]](https://github.com/RenYang-home/HLVC)
 * *Eirikur Agustsson, David Minnen, Nick Johnston, Johannes Balle, Sung Jin Hwang, George Toderici*, Scale-Space Flow for End-to-End Optimized Video Compression. [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Agustsson_Scale-Space_Flow_for_End-to-End_Optimized_Video_Compression_CVPR_2020_paper.pdf)
 * *Rongjie Liu, Meng Li, Li Ma*, Efficient in-situ image and video compression through probabilistic image representation. [[paper]](https://arxiv.org/abs/1912.05622v3)
