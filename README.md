@@ -21,6 +21,9 @@ Recent papers and codes related to deep learning/deep neural network based data 
 * *Emiel Hoogeboom, Alexey A. Gritsenko, Jasmijn Bastings, Ben Poole, Rianne van den Berg, Tim Salimans*, Autoregressive Diffusion Models. [[paper]](https://arxiv.org/abs/2110.02037)
 
 ### ICML
+* *Zeyu Yan, Fei Wen, Peilin Liu*, Optimally Controllable Perceptual Lossy Compression. [[paper]]()
+* *Rui Shu, Stefano Ermon*, Bit Prioritization in Variational Autoencoders via Progressive Coding. [[paper]]()
+* *Gergely Flamich, Stratis Markou, José Miguel Hernández-Lobato*, Fast Relative Entropy Coding with A* coding. [[paper]](https://arxiv.org/abs/2201.12857)
 
 ### AAAI
 * *Yuanchao Bai, Xu Yang, Xianming Liu, Junjun Jiang, Yaowei Wang, Xiangyang Ji, Wen Gao*, Towards End-to-End Image Compression and Analysis with Transformers. [[paper]](https://arxiv.org/abs/2112.09300)
@@ -30,6 +33,7 @@ Recent papers and codes related to deep learning/deep neural network based data 
  
 ### IJCAI
 * *Ren Yang, Radu Timofte, Luc Van Gool*, Perceptual Learned Video Compression with Recurrent Conditional GAN. [[paper]](https://arxiv.org/abs/2109.03082)
+* *Tingyu Fan, Linyao Gao, Yiling Xu, Zhu Li, Dong Wang*, D-DPCC: Deep Dynamic Point Cloud Compression via 3D Motion Prediction. [[paper]](https://arxiv.org/abs/2205.01135)
 
 ## 2021
 ### CVPR
