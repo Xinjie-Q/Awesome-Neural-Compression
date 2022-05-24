@@ -50,7 +50,7 @@ Recent papers and codes related to deep learning/deep neural network based data 
 * *Ze Cui, Jing Wang, Shangyin Gao, Tiansheng Guo, Yihui Feng, Bo Bai*, Asymmetric Gained Deep Image Compression With Continuous Rate Adaptation. [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Cui_Asymmetric_Gained_Deep_Image_Compression_With_Continuous_Rate_Adaptation_CVPR_2021_paper.pdf)
 * *Yuval Bahat, Tomer Michaeli*, What's in the Image? Explorable Decoding of Compressed Images. [[paper]](https://arxiv.org/abs/2006.09332)
 * *Zizheng Que, Guo Lu, Dong Xu*, VoxelContext-Net: An Octree Based Framework for Point Cloud Compression. [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Que_VoxelContext-Net_An_Octree_Based_Framework_for_Point_Cloud_Compression_CVPR_2021_paper.pdf)
-
+* *Chi D. K. Pham, Chen Fu, Jinjia Zhou*, Deep Learning Based Spatial-Temporal In-Loop Filtering for Versatile Video Coding. [[workshop]](https://openaccess.thecvf.com/content/CVPR2021W/CLIC/papers/Pham_Deep_Learning_Based_Spatial-Temporal_In-Loop_Filtering_for_Versatile_Video_Coding_CVPRW_2021_paper.pdf)
 
 ### ICCV
 * *Jan P. Klopp, Keng-Chi Liu, Shao-Yi Chien, Liang-Gee Chen*, Online-Trained Upsampler for Deep Low Complexity Video Compression. [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Klopp_Online-Trained_Upsampler_for_Deep_Low_Complexity_Video_Compression_ICCV_2021_paper.pdf)
@@ -81,8 +81,7 @@ Recent papers and codes related to deep learning/deep neural network based data 
 * *Zongyu Guo, Zhizheng Zhang, Runsen Feng, Zhibo Chen*, Soft then Hard: Rethinking the Quantization in Neural Image Compression. [[paper]](https://arxiv.org/abs/2104.05168)
 * *Yangjun Ruan, Karen Ullrich, Daniel Severo, James Townsend, Ashish Khisti, Arnaud Doucet, Alireza Makhzani, Chris J. Maddison*, Improving Lossless Compression Rates via Monte Carlo Bits-Back Coding. [[paper]](https://arxiv.org/abs/2102.11086)
 * *Zeyu Yan, Fei Wen, Rendong Ying, Chao Ma, Peilin Liu*, On Perceptual Lossy Compression: The Cost of Perceptual Reconstruction and An Optimal Training Framework. [[paper]](https://arxiv.org/abs/2106.02782)
-#### Workshop
-* *Ruihan Yang, Yibo Yang, Joseph Marino, Yang Yang, and Stephan Mandt*, Deep generative video compression with temporal autoregressive transforms. [[paper]](https://invertibleworkshop.github.io/INNF_2020/accepted_papers/pdfs/39.pdf)
+* *Ruihan Yang, Yibo Yang, Joseph Marino, Yang Yang, and Stephan Mandt*, Deep generative video compression with temporal autoregressive transforms. [[workshop]](https://invertibleworkshop.github.io/INNF_2020/accepted_papers/pdfs/39.pdf)
 
 
 ### AAAI
