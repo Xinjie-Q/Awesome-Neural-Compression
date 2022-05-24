@@ -126,3 +126,37 @@ Recent papers and codes related to deep learning/deep neural network based data 
 ### IJCAI
 * *Zhisheng Zhong, Hiroaki Akutsu, Kiyoharu Aizawa*, Channel-Level Variable Quantization Network for Deep Image Compression. [[paper]](https://www.ijcai.org/proceedings/2020/0065.pdf)
 * *Menglu Wang, Xueyang Fu, Zepei Sun, Zheng-Jun Zha*, JPEG Artifacts Removal via Compression Quality Ranker-Guided Networks. [[paper]](https://www.ijcai.org/proceedings/2020/0079.pdf)
+
+## 2019
+### CVPR
+* *Zhengxue Cheng, Heming Sun, Masaru Takeuchi, Jiro Katto*, Learning Image and Video Compression Through Spatial-Temporal Energy Compaction. [[paper]](https://arxiv.org/abs/1906.09683)
+* *Guo Lu, Wanli Ouyang, Dong Xu, Xiaoyun Zhang, Chunlei Cai, Zhiyong Gao*, DVC: An End-To-End Deep Video Compression Framework. [[paper]](https://arxiv.org/abs/1812.00101)
+* *Fabian Mentzer, Eirikur Agustsson, Michael Tschannen, Radu Timofte, Luc Van Gool*, Practical Full Resolution Learned Lossless Image Compression. [[paper]](https://arxiv.org/abs/1811.12817)
+* *Zihao Liu, Xiaowei Xu, Tao Liu, Qi Liu, Yanzhi Wang, Yiyu Shi, Wujie Wen, Meiping Huang, Haiyun Yuan, Jian Zhuang*, Machine Vision Guided 3D Medical Image Compression for Efficient Transmission and Accurate Segmentation in the Clouds. [[paper]](https://openaccess.thecvf.com/content_CVPR_2019/html/Liu_Machine_Vision_Guided_3D_Medical_Image_Compression_for_Efficient_Transmission_CVPR_2019_paper.html)
+
+### ICCV
+* *Oren Rippel, Sanjay Nair, Carissa Lew, Steve Branson, Alexander G. Anderson, Lubomir Bourdev*, Learned Video Compression. [[paper]](https://openaccess.thecvf.com/content_ICCV_2019/html/Rippel_Learned_Video_Compression_ICCV_2019_paper.html)
+* *Eirikur Agustsson, Michael Tschannen, Fabian Mentzer, Radu Timofte, Luc Van Gool*, Generative Adversarial Networks for Extreme Learned Image Compression. [[paper]](https://arxiv.org/abs/1804.02958)
+* *Jerry Liu, Shenlong Wang, Raquel Urtasun*, DSIC: Deep Stereo Image Compression. [[paper]](https://arxiv.org/abs/1908.03631)
+* *Yoojin Choi, Mostafa El-Khamy, Jungwon Lee*, Variable Rate Deep Image Compression With a Conditional Autoencoder. [[paper]](https://arxiv.org/abs/1909.04802)
+* *Xueyang Fu, Zheng-Jun Zha, Feng Wu, Xinghao Ding, John Paisley*, JPEG Artifacts Reduction via Deep Convolutional Sparse Coding. [[paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Fu_JPEG_Artifacts_Reduction_via_Deep_Convolutional_Sparse_Coding_ICCV_2019_paper.pdf)
+
+### NIPS
+* *Jun Han, Salvator Lombardo, Christopher Schroers, Stephan Mandt*, Deep Generative Video Compression. [[paper]](https://arxiv.org/abs/1810.02845)
+* *Emiel Hoogeboom, Jorn W.T. Peters, Rianne van den Berg, Max Welling*, Integer Discrete Flows and Lossless Compression. [[paper]](https://arxiv.org/abs/1905.07376)
+* *Jonathan Ho, Evan Lohn, Pieter Abbeel*, Compression with Flows via Local Bits-Back Coding. [[paper]](https://arxiv.org/abs/1905.08500v3)
+ 
+### ICLR
+* *Johannes Ballé, Nick Johnston, David Minnen*, Integer Networks for Data Compression with Latent-Variable Models. [[paper]](https://openreview.net/forum?id=S1zz2i0cY7)[[code]](https://github.com/EccHui/Integer-Hyper-prior-Network)
+* *James Townsend, Thomas Bird, David Barber*, Practical lossless compression with latent variables using bits back coding . [[paper]](https://openreview.net/forum?id=ryE98iR5tm)[[code]](https://github.com/bits-back/bits-back)
+* *Jooyoung Lee, Seunghyun Cho, Seung-Kwon Beack*, Context-adaptive Entropy Model for End-to-end Optimized Image Compression. [[paper]](https://openreview.net/forum?id=HyxKIiAqYQ)[[code]](https://github.com/JooyoungLeeETRI/CA_Entropy_Model)
+  
+### ICML
+* *Yochai Blau, Tomer Michaeli*, Rethinking Lossy Compression: The Rate-Distortion-Perception Tradeoff. [[paper]](https://arxiv.org/abs/1901.07821)
+* *Friso H. Kingma, Pieter Abbeel, Jonathan Ho*, Bit-Swap: Recursive Bits-Back Coding for Lossless Compression with Hierarchical Latent Variables. [[paper]](https://arxiv.org/abs/1905.06845)[[code]](https://github.com/fhkingma/bitswap)
+* *Yan Wu, Mihaela Rosca, Timothy Lillicrap*, Deep Compressed Sensing. [[paper]](https://arxiv.org/abs/1905.06723)
+* *Kristy Choi, Kedar Tatwawadi, Aditya Grover, Tsachy Weissman, Stefano Ermon*, Neural Joint Source-Channel Coding. [[paper]](https://arxiv.org/abs/1811.07557)[[code]](https://github.com/ermongroup/necst)
+
+### AAAI
+* *Xichuan Zhou, Lang Xu, Shujun Liu, Yingcheng Lin, Lei Zhang, Cheng Zhuo*,  An Efficient Compressive Convolutional Network for Unified Object Detection and Image 
+Compression. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/4546)
