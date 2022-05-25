@@ -118,7 +118,6 @@ Recent papers and codes related to deep learning/deep neural network based data 
 * *Zhihao Hu, Zhenghao Chen, Dong Xu, Guo Lu, Wanli Ouyang, Shuhang Gu*, Improving Deep Video Compression by Resolution-adaptive Flow Coding. [[paper]](https://arxiv.org/abs/2009.05982v1)
 * *Guo Lu, Chunlei Cai, Xiaoyun Zhang, Li Chen, Wanli Ouyang, Dong Xu, Zhiyong Gao*, Content Adaptive and Error Propagation Aware Deep Video Compression. [[paper]](https://arxiv.org/abs/2003.11282v1)
 * *Wenyu Sun, Chen Tang, Weigui Li, Zhuqing Yuan, Huazhong Yang, Yongpan Liu*, High-quality Single-model Deep Video Compression with Frame-Conv3D and Multi-frame Differential Modulation. [[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123750239.pdf)
-* *Jianyi Wang, Xin Deng, Mai Xu, Congyong Chen, Yuhang Song*, Multi-level Wavelet-based Generative Adversarial Network for Perceptual Quality Enhancement of Compressed Video. [[paper]](https://arxiv.org/abs/2008.00499)[[code]](https://github.com/IceClear/MW-GAN)
 * *Jerry Liu, Shenlong Wang, Wei-Chiu Ma, Meet Shah, Rui Hu, Pranaab Dhawan, Raquel Urtasun*, Conditional Entropy Coding for Efficient Video Compression. [[paper]](https://arxiv.org/abs/2008.09180)
 * *Sharon Ayzik, Shai Avidan*, Deep Image Compression using Decoder Side Information. [[paper]](https://arxiv.org/abs/2001.04753)
 * *Jinyoung Choi, Bohyung Han*, Task-Aware Quantization Network for JPEG Image Compression. [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-58565-5_19)
