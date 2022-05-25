@@ -3,7 +3,6 @@ Recent papers and codes related to deep learning/deep neural network based data 
 
 ## 2022
 ### CVPR
-* *Jintao Lin, Haodong Duan, Kai Chen, Dahua Lin, Limin Wang*, OCSampler: Compressing Videos to One Clip with Single-step Sampling. [[paper]](https://arxiv.org/abs/2201.04388)
 * *Jun-Hyuk Kim, Byeongho Heo, Jong-Seok Lee*, Joint Global and Local Hierarchical Priors for Learned Image Compression. [[paper]](https://arxiv.org/abs/2112.04487)
 * *Hochang Rhee, Yeong Il Jang, Seyun Kim, Nam Ik Cho*, LC-FDNet: Learned Lossless Image Compression with Frequency Decomposition Network. [[paper]](https://arxiv.org/abs/2112.06417)
 * *Jae-Han Lee, Seungmin Jeon, Kwang Pyo Choi, Youngo Park, Chang-Su Kim*, DPICT: Deep Progressive Image Compression Using Trit-Planes. [[paper]](https://arxiv.org/abs/2112.06334)[[code]](https://github.com/jaehanlee-mcl/DPICT)
