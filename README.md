@@ -1,5 +1,5 @@
 # Deep-Data-Compression
-Recent papers and codes related to deep learning/deep neural network based data compression including images, videos and point clouds. 
+Recent papers and codes related to learning-based data compression, including images, videos and point clouds. 
 
 ## 2022
 ### CVPR
