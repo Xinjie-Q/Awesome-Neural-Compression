@@ -123,7 +123,7 @@ Recent papers and codes related to learning-based data compression, including im
 
 ### NIPS
 * *Yibo Yang, Robert Bamler, Stephan Mandt*, Improving Inference for Neural Image Compression. [[paper]](https://arxiv.org/abs/2006.04240)
-* *Fabian Mentzer, George Toderici, Michael Tschannen, Eirikur Agustsson*, High-Fidelity Generative Image Compression. [[paper]](https://arxiv.org/abs/2006.09965)
+* *Fabian Mentzer, George Toderici, Michael Tschannen, Eirikur Agustsson*, High-Fidelity Generative Image Compression. [[paper]](https://arxiv.org/abs/2006.09965)[[code]](https://github.com/Justin-Tan/high-fidelity-generative-compression)
 * *Eirikur Agustsson, Lucas Theis*, Universally Quantized Neural Compression. [[paper]](https://arxiv.org/abs/2006.09952)
 * *Gergely Flamich, Marton Havasi, José Miguel Hernández-Lobato*, Compressing Images by Encoding Their Latent Representations with Relative Entropy Coding. [[paper]](https://arxiv.org/abs/2010.01185)
 * *Sourav Biswas, Jerry Liu, Kelvin Wong, Shenlong Wang, Raquel Urtasun*, MuSCLE: Multi Sweep Compression of LiDAR using Deep Entropy Models. [[paper]](https://arxiv.org/abs/2011.07590)
@@ -151,7 +151,7 @@ Recent papers and codes related to learning-based data compression, including im
 
 ### ICCV
 * *Oren Rippel, Sanjay Nair, Carissa Lew, Steve Branson, Alexander G. Anderson, Lubomir Bourdev*, Learned Video Compression. [[paper]](https://openaccess.thecvf.com/content_ICCV_2019/html/Rippel_Learned_Video_Compression_ICCV_2019_paper.html)
-* *Eirikur Agustsson, Michael Tschannen, Fabian Mentzer, Radu Timofte, Luc Van Gool*, Generative Adversarial Networks for Extreme Learned Image Compression. [[paper]](https://arxiv.org/abs/1804.02958)
+* *Eirikur Agustsson, Michael Tschannen, Fabian Mentzer, Radu Timofte, Luc Van Gool*, Generative Adversarial Networks for Extreme Learned Image Compression. [[paper]](https://arxiv.org/abs/1804.02958)[[code]](https://github.com/PanPey/GAN-based-Image-Compressor-System)
 * *Jerry Liu, Shenlong Wang, Raquel Urtasun*, DSIC: Deep Stereo Image Compression. [[paper]](https://arxiv.org/abs/1908.03631)
 * *Yoojin Choi, Mostafa El-Khamy, Jungwon Lee*, Variable Rate Deep Image Compression With a Conditional Autoencoder. [[paper]](https://arxiv.org/abs/1909.04802)
 * *Xueyang Fu, Zheng-Jun Zha, Feng Wu, Xinghao Ding, John Paisley*, JPEG Artifacts Reduction via Deep Convolutional Sparse Coding. [[paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Fu_JPEG_Artifacts_Reduction_via_Deep_Convolutional_Sparse_Coding_ICCV_2019_paper.pdf)
