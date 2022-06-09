@@ -11,14 +11,14 @@ Recent papers and codes related to learning-based data compression, including im
 * *Dailan He, Ziming Yang, Weikun Peng, Rui Ma, Hongwei Qin, Yan Wang*, ELIC: Efficient Learned Image Compression with Unevenly Grouped Space-Channel Contextual Adaptive Coding. [[paper]](https://arxiv.org/abs/2203.10886)
 * *Renjie Zou, Chunfeng Song, Zhaoxiang Zhang*, The Devil Is in the Details: Window-based Attention for Image Compression. [[paper]](https://arxiv.org/abs/2203.08450)[[code]](https://github.com/Googolxx/STF)
 * *Dezhao Wang, Wenhan Yang, Yueyu Hu, Jiaying Liu*, Neural Data-Dependent Transform for Learned Image Compression. [[paper]](https://arxiv.org/abs/2203.04963)[[code]](https://dezhao-wang.github.io/Neural-Syntax-Website/)
+* PILC: Practical Image Lossless Compression with an End-to-end GPU Oriented Neural Framework. [[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Kang_PILC_Practical_Image_Lossless_Compression_With_an_End-to-End_GPU_Oriented_CVPR_2022_paper.html)
 * *Xuanyu Zhou, Charles R. Qi, Yin Zhou, Dragomir Anguelov*, RIDDLE: Lidar Data Compression with Range Image Deep Delta Encoding. [[paper]](https://paperswithcode.com/paper/lidar-range-image-compression-with-deep-delta)
 * *Yun He, Xinlin Ren, Danhang Tang, Yinda Zhang, Xiangyang Xue, Yanwei Fu*, Density-preserving Deep Point Cloud Compression. [[paper]](https://arxiv.org/abs/2204.12684) [[project]](https://yunhe20.github.io/D-PCC/)
 * *Guangchi Fang, Qingyong Hu, Hanyun Wang, Yiling Xu, Yulan Guo*, 3DAC: Learning Attribute Compression for Point Clouds. [[paper]](https://arxiv.org/abs/2203.09931)
-* LSVC: A Learning-based Stereo Video Compression Framework.
-* Learning based Multi-modality Image and Video Compression.
-* Deep Stereo Image Compression via Bi-directional Coding.
-* PILC: Practical Image Lossless Compression with an End-to-end GPU Oriented Neural Framework.
-* SASIC: Stereo Image Compression with Latent Shifts and Stereo Attention.
+* LSVC: A Learning-based Stereo Video Compression Framework. [[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Chen_LSVC_A_Learning-Based_Stereo_Video_Compression_Framework_CVPR_2022_paper.html)
+* Learning based Multi-modality Image and Video Compression. [[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Lu_Learning_Based_Multi-Modality_Image_and_Video_Compression_CVPR_2022_paper.html)
+* Deep Stereo Image Compression via Bi-directional Coding. [[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Lei_Deep_Stereo_Image_Compression_via_Bi-Directional_Coding_CVPR_2022_paper.html)
+* SASIC: Stereo Image Compression with Latent Shifts and Stereo Attention. [[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Wodlinger_SASIC_Stereo_Image_Compression_With_Latent_Shifts_and_Stereo_Attention_CVPR_2022_paper.html)
 
 
 ### ECCV
