@@ -88,7 +88,7 @@ Recent papers and codes related to learning-based data compression, including im
 * *Ties van Rozendaal, Iris A.M. Huijben, Taco S. Cohen*, Overfitting for Fun and Profit: Instance-Adaptive Data Compression . [[paper]](https://arxiv.org/abs/2101.08687)
 * *Chenlin Meng, Jiaming Song, Yang Song, Shengjia Zhao, Stefano Ermon*, Improved Autoregressive Modeling with Distribution Smoothing. [[paper]](https://arxiv.org/abs/2103.15089)
 * *Rianne van den Berg, Alexey A. Gritsenko, Mostafa Dehghani, Casper Kaae Sønderby, Tim Salimans*, IDF++: Analyzing and Improving Integer Discrete Flows for Lossless Compression. [[paper]](https://arxiv.org/abs/2006.12459v2)
-* *Yichen Qian, Zhiyu Tan, Xiuyu Sun, Ming Lin, Dongyang Li, Zhenhong Sun, Hao Li, Rong Jin*, Learning Accurate Entropy Model with Global Reference for Image Compression. [[paper]](https://arxiv.org/abs/2010.08321)
+* *Yichen Qian, Zhiyu Tan, Xiuyu Sun, Ming Lin, Dongyang Li, Zhenhong Sun, Hao Li, Rong Jin*, Learning Accurate Entropy Model with Global Reference for Image Compression. [[paper]](https://arxiv.org/abs/2010.08321)[[code]](https://github.com/damo-cv/img-comp-reference)
 
 ### ICML
 * *Zongyu Guo, Zhizheng Zhang, Runsen Feng, Zhibo Chen*, Soft then Hard: Rethinking the Quantization in Neural Image Compression. [[paper]](https://arxiv.org/abs/2104.05168)
