@@ -56,10 +56,10 @@ Recent papers and codes related to learning-based data compression, including im
 * *Shifeng Zhang, Chen Zhang, Ning Kang, Zhenguo Li*, iVPF: Numerical Invertible Volume Preserving Flow for Efficient Lossless Compression. [[paper]](https://arxiv.org/abs/2103.16211)
 * *Jan P. Klopp, Keng-Chi Liu, Liang-Gee Chen, Shao-Yi Chien*, How to Exploit the Transferability of Learned Image Compression to Conventional Codecs. [[paper]](https://arxiv.org/abs/2012.01874)
 * *Xi Zhang, Xiaolin Wu*, Attention-guided Image Compression by Deep Reconstruction of Compressive Sensed Saliency Skeleton. [[paper]](https://arxiv.org/abs/2103.15368)
-* *Dailan He, Yaoyan Zheng, Baocheng Sun, Yan Wang, Hongwei Qin*, Checkerboard Context Model for Efficient Learned Image Compression. [[paper]](https://arxiv.org/abs/2103.15306)
+* *Dailan He, Yaoyan Zheng, Baocheng Sun, Yan Wang, Hongwei Qin*, Checkerboard Context Model for Efficient Learned Image Compression. [[paper]](https://arxiv.org/abs/2103.15306)[[code]](https://github.com/JiangWeibeta/Checkerboard-Context-Model-for-Efficient-Learned-Image-Compression)
 * *Fei Yang, Luis Herranz, Yongmei Cheng, Mikhail G. Mozerov*, Slimmable Compressive Autoencoders for Practical Neural Image Compression. [[paper]](https://arxiv.org/abs/2103.15726)
 * *Yuanchao Bai, Xianming Liu, Wangmeng Zuo, Yaowei Wang, Xiangyang Ji*, Learning Scalable lY=-Constrained Near-Lossless Image Compression via Joint Lossy Image and Residual Compression. [[paper]](https://arxiv.org/abs/2103.17015)
-* *Ze Cui, Jing Wang, Shangyin Gao, Tiansheng Guo, Yihui Feng, Bo Bai*, Asymmetric Gained Deep Image Compression With Continuous Rate Adaptation. [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Cui_Asymmetric_Gained_Deep_Image_Compression_With_Continuous_Rate_Adaptation_CVPR_2021_paper.pdf)
+* *Ze Cui, Jing Wang, Shangyin Gao, Tiansheng Guo, Yihui Feng, Bo Bai*, Asymmetric Gained Deep Image Compression With Continuous Rate Adaptation. [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Cui_Asymmetric_Gained_Deep_Image_Compression_With_Continuous_Rate_Adaptation_CVPR_2021_paper.pdf)[[code]](https://github.com/mmSir/GainedVAE)
 * *Yuval Bahat, Tomer Michaeli*, What's in the Image? Explorable Decoding of Compressed Images. [[paper]](https://arxiv.org/abs/2006.09332)
 * *Xin Deng, Wenzhe Yang, Ren Yang, Mai Xu, Enpeng Liu, Qianhan Feng, Radu Timofte*, Deep Homography for Efficient Stereo Image Compression. [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Deng_Deep_Homography_for_Efficient_Stereo_Image_Compression_CVPR_2021_paper.pdf)[[code]](https://github.com/ywz978020607/HESIC)
 * *Zizheng Que, Guo Lu, Dong Xu*, VoxelContext-Net: An Octree Based Framework for Point Cloud Compression. [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Que_VoxelContext-Net_An_Octree_Based_Framework_for_Point_Cloud_Compression_CVPR_2021_paper.pdf)
@@ -71,7 +71,7 @@ Recent papers and codes related to learning-based data compression, including im
 * *Mehrdad Khani, Vibhaalakshmi Sivaraman, Mohammad Alizadeh*, Efficient Video Compression via Content-Adaptive Super-Resolution. [[paper]](https://arxiv.org/abs/2104.02322)[[code]](https://github.com/AdaptiveVC/SRVC)
 * *Oren Rippel, Alexander G. Anderson, Kedar Tatwawadi, Sanjay Nair, Craig Lytle, Lubomir Bourdev*, ELF-VC: Efficient Learned Flexible-Rate Video Coding. [[paper]](https://arxiv.org/abs/2104.14335v1)[[project]](https://www.wave.one/elf)
 * *Xueyang Fu, Xi Wang, Aiping Liu, Junwei Han, Zheng-Jun Zha*, Learning Dual Priors for JPEG Compression Artifacts Removal. [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Fu_Learning_Dual_Priors_for_JPEG_Compression_Artifacts_Removal_ICCV_2021_paper.pdf)
-* *Myungseo Song, Jinyoung Choi, Bohyung Han*, Variable-Rate Deep Image Compression Through Spatially-Adaptive Feature Transform. [[paper]](https://arxiv.org/abs/2108.09551)
+* *Myungseo Song, Jinyoung Choi, Bohyung Han*, Variable-Rate Deep Image Compression Through Spatially-Adaptive Feature Transform. [[paper]](https://arxiv.org/abs/2108.09551)[[code]](https://github.com/micmic123/QmapCompression)
 * *Ge Gao, Pei You, Rong Pan, Shunyuan Han, Yuanyuan Zhang, Yuchao Dai, Hojae Lee*, Neural Image Compression via Attentional Multi-Scale Back Projection and Frequency Decomposition. [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Gao_Neural_Image_Compression_via_Attentional_Multi-Scale_Back_Projection_and_Frequency_ICCV_2021_paper.pdf)
 
 
@@ -118,7 +118,7 @@ Recent papers and codes related to learning-based data compression, including im
 * *Guo Lu, Chunlei Cai, Xiaoyun Zhang, Li Chen, Wanli Ouyang, Dong Xu, Zhiyong Gao*, Content Adaptive and Error Propagation Aware Deep Video Compression. [[paper]](https://arxiv.org/abs/2003.11282v1)
 * *Wenyu Sun, Chen Tang, Weigui Li, Zhuqing Yuan, Huazhong Yang, Yongpan Liu*, High-quality Single-model Deep Video Compression with Frame-Conv3D and Multi-frame Differential Modulation. [[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123750239.pdf)
 * *Jerry Liu, Shenlong Wang, Wei-Chiu Ma, Meet Shah, Rui Hu, Pranaab Dhawan, Raquel Urtasun*, Conditional Entropy Coding for Efficient Video Compression. [[paper]](https://arxiv.org/abs/2008.09180)
-* *Sharon Ayzik, Shai Avidan*, Deep Image Compression using Decoder Side Information. [[paper]](https://arxiv.org/abs/2001.04753)
+* *Sharon Ayzik, Shai Avidan*, Deep Image Compression using Decoder Side Information. [[paper]](https://arxiv.org/abs/2001.04753) [[code]](https://github.com/ayziksha/DSIN)
 * *Jinyoung Choi, Bohyung Han*, Task-Aware Quantization Network for JPEG Image Compression. [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-58565-5_19)
 
 ### NIPS
@@ -162,7 +162,7 @@ Recent papers and codes related to learning-based data compression, including im
 * *Jonathan Ho, Evan Lohn, Pieter Abbeel*, Compression with Flows via Local Bits-Back Coding. [[paper]](https://arxiv.org/abs/1905.08500v3)
  
 ### ICLR
-* *Johannes Ballé, Nick Johnston, David Minnen*, Integer Networks for Data Compression with Latent-Variable Models. [[paper]](https://openreview.net/forum?id=S1zz2i0cY7)[[code]](https://github.com/EccHui/Integer-Hyper-prior-Network)
+* *Johannes Ballé, Nick Johnston, David Minnen*, Integer Networks for Data Compression with Latent-Variable Models. [[paper]](https://openreview.net/forum?id=S1zz2i0cY7)[[code]](https://github.com/EccHui/Integer-Hyper-prior-Network) [[code]](https://github.com/EccHui/Integer-Hyper-prior-Network)
 * *James Townsend, Thomas Bird, David Barber*, Practical lossless compression with latent variables using bits back coding . [[paper]](https://openreview.net/forum?id=ryE98iR5tm)[[code]](https://github.com/bits-back/bits-back)
 * *Jooyoung Lee, Seunghyun Cho, Seung-Kwon Beack*, Context-adaptive Entropy Model for End-to-end Optimized Image Compression. [[paper]](https://openreview.net/forum?id=HyxKIiAqYQ)[[code]](https://github.com/JooyoungLeeETRI/CA_Entropy_Model)
   
