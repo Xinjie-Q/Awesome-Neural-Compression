@@ -22,6 +22,8 @@ Recent papers and codes related to learning-based data compression, including im
 
 
 ### ECCV
+* *Ruoyu Feng et al*, Image Coding for Machines with Omnipotent Feature Learning. [[paper]](https://arxiv.org/abs/2207.01932)
+
 
 ### NIPS
 
@@ -37,6 +39,8 @@ Recent papers and codes related to learning-based data compression, including im
 * *Zeyu Yan, Fei Wen, Peilin Liu*, Optimally Controllable Perceptual Lossy Compression. [[paper]]()
 * *Rui Shu, Stefano Ermon*, Bit Prioritization in Variational Autoencoders via Progressive Coding. [[paper]]()
 * *Gergely Flamich, Stratis Markou, José Miguel Hernández-Lobato*, Fast Relative Entropy Coding with A* coding. [[paper]](https://arxiv.org/abs/2201.12857)
+* *Siyu Wang, Jianfei Chen, Chongxuan Li, Jun Zhu, Bo Zhang*, Fast Lossless Neural Compression with Integer-Only Discrete Flows. [[paper]](https://arxiv.org/abs/2206.08869)
+
 
 ### AAAI
 * *Yuanchao Bai, Xu Yang, Xianming Liu, Junjun Jiang, Yaowei Wang, Xiangyang Ji, Wen Gao*, Towards End-to-End Image Compression and Analysis with Transformers. [[paper]](https://arxiv.org/abs/2112.09300)
