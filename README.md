@@ -3,6 +3,7 @@ Recent papers and codes related to learning-based data compression, including im
 
 ## 2022
 ### CVPR
+* *Zhihao Hu, Guo Lu, Jinyang Guo, Shan Liu, Wei Jiang, Dong Xu*, Coarse-to-fine Deep Video Coding with Hyperprior-guided Mode Prediction. [[paper]](https://arxiv.org/abs/2206.07460)
 * *Jun-Hyuk Kim, Byeongho Heo, Jong-Seok Lee*, Joint Global and Local Hierarchical Priors for Learned Image Compression. [[paper]](https://arxiv.org/abs/2112.04487)[[code]](https://github.com/naver-ai/informer)
 * *Hochang Rhee, Yeong Il Jang, Seyun Kim, Nam Ik Cho*, LC-FDNet: Learned Lossless Image Compression with Frequency Decomposition Network. [[paper]](https://arxiv.org/abs/2112.06417)
 * *Jae-Han Lee, Seungmin Jeon, Kwang Pyo Choi, Youngo Park, Chang-Su Kim*, DPICT: Deep Progressive Image Compression Using Trit-Planes. [[paper]](https://arxiv.org/abs/2112.06334)[[code]](https://github.com/jaehanlee-mcl/DPICT)
