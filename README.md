@@ -25,7 +25,7 @@ Recent papers and codes related to learning-based data compression, including im
 ### ECCV
 * *Ruoyu Feng et al*, Image Coding for Machines with Omnipotent Feature Learning. [[paper]](https://arxiv.org/abs/2207.01932)
 * *Ka Leong Cheng, Yueqi Xie, Qifeng Chen*, Optimizing Image Compression via Joint Learning with Denoising. [[paper]](https://arxiv.org/abs/2207.10869) [[code]](https://github.com/felixcheng97/DenoiseCompression)
-* *Yibo Shi, Yunying Ge, Jing Wang, Jue Mao*, Optimizing Image Compression via Joint Learning with Denoising. [[paper]](https://arxiv.org/abs/2207.14678) 
+* *Yibo Shi, Yunying Ge, Jing Wang, Jue Mao*, AlphaVC: High-Performance and Efficient Learned Video Compression. [[paper]](https://arxiv.org/abs/2207.14678) 
 
 ### NIPS
 
