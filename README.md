@@ -28,6 +28,14 @@ Recent papers and codes related to learning-based data compression, including im
 * *Yibo Shi, Yunying Ge, Jing Wang, Jue Mao*, AlphaVC: High-Performance and Efficient Learned Video Compression. [[paper]](https://arxiv.org/abs/2207.14678) 
 
 ### NIPS
+* *Anastasia Antsiferova, Sergey Lavrushkin, Maksim Smirnov, Aleksandr Gushchin, Dmitriy Vatolin, Dmitriy Kulikov*, Video compression dataset and benchmark of learning-based video-quality metrics. [[paper]](https://openreview.net/forum?id=My5AI9aM49R)
+* *Fabian Mentzer, George Toderici, David Minnen, Sung-Jin Hwang, Sergi Caelles, Mario Lucic, Eirikur Agustsson*, VCT: A Video Compression Transformer. [[paper]](https://arxiv.org/abs/2206.07307)[[code]](https://github.com/google-research/google-research/tree/master/vct)
+* *Tongda Xu, Yan Wang, Dailan He, Chenjian Gao, Han Gao, Kunzan Liu, Hongwei Qin*, Multiple-sample Neural Image Compression. [[paper]]()
+* *Jooyoung Lee, Seyoon Jeong, Munchurl Kim*, Selective compression learning of latent representations for variable-rate image compression. [[paper]]()[[code]](https://github.com/JooyoungLeeETRI/SCR)
+* *Chenjian Gao, Tongda Xu, Dailan He, Hongwei Qin, Yan Wang*, Flexible Neural Image Compression via Code Editing. [[paper]](https://arxiv.org/abs/2209.09244)
+
+
+
 
 ### ICLR
 * *Anji Liu, Stephan Mandt, Guy Van den Broeck*, Lossless Compression with Probabilistic Circuits. [[paper]](https://arxiv.org/abs/2111.11632)
