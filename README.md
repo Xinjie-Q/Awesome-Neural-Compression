@@ -23,9 +23,19 @@ Recent papers and codes related to learning-based data compression, including im
 
 
 ### ECCV
+* *Yannick Strümpler, Janis Postels, Ren Yang, Luc van Gool, Federico Tombari*, Implicit Neural Representations for Image Compression. [[paper]](https://arxiv.org/abs/2112.04267)
+* *Joaquim Campos, Simon Meierhans, Abdelaziz Djelouah, Christopher Schroers*, Content Adaptive Latents and Decoder for Neural Image Compression. [[paper]](https://arxiv.org/abs/1906.01223)
+* *A. Burakhan Koyuncu, Han Gao, Atanas Boev, Georgii Gaikov, Elena Alshina, Eckehard Steinbach*, Contextformer: A Transformer with Spatio-Channel Attention for Context Modeling in Learned Image Compression. [[paper]](https://arxiv.org/abs/2203.02452v2)
+* *Chajin Shin, Hyeongmin Lee, Hanbin Son, Sangjin Lee, Dogyoon Lee, Sangyoun Lee*, Expanded Adaptive Scaling Normalization for End to End Image Compression. [[paper]](https://arxiv.org/abs/2208.03049)[[code]](https://github.com/ChajinShin/EASN)
+* *Tianyi Liu, Sen He, Vinodh Kumaran Jayakumar, Wei Wang*, A Cloud 3D Dataset and Application-Specific Learned Image Compression in Cloud 3D. [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-19839-7_16) [[code]](https://github.com/cloud-graphics-rendering/AppSpecificLIC)
+* *Meng Li, Shangyin Gao, Yihui Feng, Yibo Shi, Jing Wang*, Content-Oriented Learned Image Compression. [[paper]](https://arxiv.org/abs/2207.14168v2) [[code]](https://github.com/lmijydyb/COLIC)
+* *Yibo Shi, Yunying Ge, Jing Wang, Jue Mao*, AlphaVC: High-Performance and Efficient Learned Video Compression. [[paper]](https://arxiv.org/abs/2207.14678) 
+* *Yung-Han Ho, Chih-Peng Chang, Peng-Yu Chen, Alessandro Gnutti, Wen-Hsiao Peng*, CANF-VC: Conditional Augmented Normalizing Flows for Video Compression. [[paper]](https://arxiv.org/abs/2207.05315)[[code]](https://github.com/NYCU-MAPL/CANF-VC)
+* *Fabian Mentzer, Eirikur Agustsson, Johannes Ballé, David Minnen, Nick Johnston, George Toderici*, Neural Video Compression using GANs for Detail Synthesis and Propagation. [[paper]](https://arxiv.org/abs/2107.12038v3) 
+* *Zhili Chen, Zian Qian, Sukai Wang, Qifeng Chen*, Point Cloud Compression with Sibling Context and Surface Priors. [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-19839-7_43) [[code]](https://github.com/zlichen/PCC-S)
+* *Sukai Wang, Ming Liu*, Point Cloud Compression using Range Image-based Entropy Model for Autonomous Driving. [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-20047-2_19) 
 * *Ruoyu Feng et al*, Image Coding for Machines with Omnipotent Feature Learning. [[paper]](https://arxiv.org/abs/2207.01932)
 * *Ka Leong Cheng, Yueqi Xie, Qifeng Chen*, Optimizing Image Compression via Joint Learning with Denoising. [[paper]](https://arxiv.org/abs/2207.10869) [[code]](https://github.com/felixcheng97/DenoiseCompression)
-* *Yibo Shi, Yunying Ge, Jing Wang, Jue Mao*, AlphaVC: High-Performance and Efficient Learned Video Compression. [[paper]](https://arxiv.org/abs/2207.14678) 
 
 ### NIPS
 * *Anastasia Antsiferova, Sergey Lavrushkin, Maksim Smirnov, Aleksandr Gushchin, Dmitriy Vatolin, Dmitriy Kulikov*, Video compression dataset and benchmark of learning-based video-quality metrics. [[paper]](https://openreview.net/forum?id=My5AI9aM49R)
