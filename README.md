@@ -123,7 +123,7 @@ Recent papers and codes related to learning-based data compression, including im
 * *Ge Gao, Pei You, Rong Pan, Shunyuan Han, Yuanyuan Zhang, Yuchao Dai, Hojae Lee*, Neural Image Compression via Attentional Multi-Scale Back Projection and Frequency Decomposition. [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Gao_Neural_Image_Compression_via_Attentional_Multi-Scale_Back_Projection_and_Frequency_ICCV_2021_paper.pdf)
 
 
-### NIPS
+### NeurIPS
 * *Jiahao Li, Bin Li, Yan Lu*, Deep Contextual Video Compression. [[paper]](https://arxiv.org/abs/2109.15047v2)
 * *Shifeng Zhang, Ning Kang, Tom Ryder, Zhenguo Li*, iFlow: Numerically Invertible Flows for Efficient Lossless Compression via a Uniform Coder. [[paper]](https://arxiv.org/abs/2111.00965)
 * *George Zhang, Jingjing Qian, Jun Chen, Ashish Khisti*, Universal Rate-Distortion-Perception Representations for Lossy Compression. [[paper]](https://arxiv.org/abs/2106.10311)
@@ -169,7 +169,7 @@ Recent papers and codes related to learning-based data compression, including im
 * *Sharon Ayzik, Shai Avidan*, Deep Image Compression using Decoder Side Information. [[paper]](https://arxiv.org/abs/2001.04753) [[code]](https://github.com/ayziksha/DSIN)
 * *Jinyoung Choi, Bohyung Han*, Task-Aware Quantization Network for JPEG Image Compression. [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-58565-5_19)
 
-### NIPS
+### NeurIPS
 * *Yibo Yang, Robert Bamler, Stephan Mandt*, Improving Inference for Neural Image Compression. [[paper]](https://arxiv.org/abs/2006.04240)
 * *Fabian Mentzer, George Toderici, Michael Tschannen, Eirikur Agustsson*, High-Fidelity Generative Image Compression. [[paper]](https://arxiv.org/abs/2006.09965)[[code]](https://github.com/Justin-Tan/high-fidelity-generative-compression)
 * *Eirikur Agustsson, Lucas Theis*, Universally Quantized Neural Compression. [[paper]](https://arxiv.org/abs/2006.09952)
@@ -204,7 +204,7 @@ Recent papers and codes related to learning-based data compression, including im
 * *Yoojin Choi, Mostafa El-Khamy, Jungwon Lee*, Variable Rate Deep Image Compression With a Conditional Autoencoder. [[paper]](https://arxiv.org/abs/1909.04802)
 * *Xueyang Fu, Zheng-Jun Zha, Feng Wu, Xinghao Ding, John Paisley*, JPEG Artifacts Reduction via Deep Convolutional Sparse Coding. [[paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Fu_JPEG_Artifacts_Reduction_via_Deep_Convolutional_Sparse_Coding_ICCV_2019_paper.pdf)
 
-### NIPS
+### NeurIPS
 * *Jun Han, Salvator Lombardo, Christopher Schroers, Stephan Mandt*, Deep Generative Video Compression. [[paper]](https://arxiv.org/abs/1810.02845)
 * *Emiel Hoogeboom, Jorn W.T. Peters, Rianne van den Berg, Max Welling*, Integer Discrete Flows and Lossless Compression. [[paper]](https://arxiv.org/abs/1905.07376)
 * *Jonathan Ho, Evan Lohn, Pieter Abbeel*, Compression with Flows via Local Bits-Back Coding. [[paper]](https://arxiv.org/abs/1905.08500v3)
