@@ -4,7 +4,7 @@ Recent papers and codes related to learning-based data compression, including im
 ## 2023
 ### CVPR
 * *Jiahao Li, Bin Li, Yan Lu*, Neural Video Compression with Diverse Contexts. [[paper]](https://arxiv.org/abs/2302.14402)[[code]](https://github.com/microsoft/DCVC)
-
+* *Yi Yu, Yufei Wang, Wenhan Yang, Shijian Lu, Yap-peng Tan, Alex C. Kot*, Backdoor Attacks Against Deep Image Compression via Adaptive Frequency Trigger. [[paper]](https://arxiv.org/abs/2302.14677)
 
 ### ICCV
 
