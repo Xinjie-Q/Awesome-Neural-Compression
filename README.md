@@ -27,6 +27,7 @@ Recent papers and codes related to learning-based data compression, including im
 
 ## 2022
 ### CVPR
+* *Tom Ryder, Chen Zhang, Ning Kang, Shifeng Zhang*, Split Hierarchical Variational Compression. [[paper]](https://arxiv.org/abs/2204.02071)
 * *Zhihao Hu, Guo Lu, Jinyang Guo, Shan Liu, Wei Jiang, Dong Xu*, Coarse-to-fine Deep Video Coding with Hyperprior-guided Mode Prediction. [[paper]](https://arxiv.org/abs/2206.07460)
 * *Jun-Hyuk Kim, Byeongho Heo, Jong-Seok Lee*, Joint Global and Local Hierarchical Priors for Learned Image Compression. [[paper]](https://arxiv.org/abs/2112.04487)[[code]](https://github.com/naver-ai/informer)
 * *Hochang Rhee, Yeong Il Jang, Seyun Kim, Nam Ik Cho*, LC-FDNet: Learned Lossless Image Compression with Frequency Decomposition Network. [[paper]](https://arxiv.org/abs/2112.06417)
