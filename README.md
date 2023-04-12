@@ -5,6 +5,21 @@ Recent papers and codes related to learning-based data compression, including im
 ### CVPR
 * *Jiahao Li, Bin Li, Yan Lu*, Neural Video Compression with Diverse Contexts. [[paper]](https://arxiv.org/abs/2302.14402)[[code]](https://github.com/microsoft/DCVC)
 * *Yi Yu, Yufei Wang, Wenhan Yang, Shijian Lu, Yap-peng Tan, Alex C. Kot*, Backdoor Attacks Against Deep Image Compression via Adaptive Frequency Trigger. [[paper]](https://arxiv.org/abs/2302.14677)
+* *Eirikur Agustsson, David Minnen, George Toderici, Fabian Mentzer*, Multi-Realism Image Compression with a Conditional Generator. [[paper]](https://arxiv.org/abs/2212.13824)
+* *Rui Song, Chunyang Fu, Shan Liu, Ge Li*, Efficient Hierarchical Entropy Model for Learned Point Cloud Compression. 
+* *Linfeng Qi, Jiahao Li, Bin Li, Houqiang Li, Yan Lu*, Motion Information Propagation for Neural Video Compression. 
+* *Zhihao Hu, Dong Xu*, Complexity-guided Slimmable Decoder for Efficient Deep Video Compression.
+* *Jinming Liu, Heming Sun, Jiro Katto*, Learned Image Compression with Mixed Transformer-CNN Architectures. [[paper]](https://arxiv.org/abs/2303.14978)[[code]](https://github.com/jmliu206/LIC_TCM)
+* *Seungmin Jeon, Kwang Pyo Choi, Youngo Park, Chang-Su Kim*, Context-Based Trit-Plane Coding for Progressive Image Compression. [[paper]](https://arxiv.org/abs/2303.05715) [[code]](https://github.com/seungminjeon-github/CTC)
+
+* *Runzhao Yang, Tingxiong Xiao, Yuxiao Cheng, Jinli Suo, Qionghai Dai*, TINC: Tree-structured Implicit Neural Compression. [[paper]](https://arxiv.org/abs/2211.06689)[[code]](https://github.com/RichealYoung/TINC)
+* *Carlos Gomes, Roberto Azevedo, Christopher Schroers*, Video Compression with Entropy-Constrained Neural Representations.
+* *Bowen Liu, Yu Chen, Rakesh Chowdary Machineni, Shiyu Liu, Hun-Seok Kim*, MMVC: Learned Multi-Mode Video Compression with Block-based Prediction Mode Selection and Density-Adaptive Entropy Coding. [[paper]](https://arxiv.org/abs/2304.02273)[[code]](https://github.com/BowenL0218/MMVC_video_codec)
+* *Juncheol Ye, Hyunho Yeo, Jinwoo Park, Dongsu Han*, AccelIR: Task-aware Image Compression for Accelerating Neural Restoration. [[code]](https://github.com/AccelIR-public/AccelIR-public)
+* *David Alexandre, Hsueh-Ming Hang, Wen-Hsiao Peng*, Hierarchical B-frame Video Compression Using Two-Layer CANF without Motion Coding. [[paper]](https://arxiv.org/abs/2304.02690)[[code]](https://nycu-clab.github.io/)
+* *Xi Zhang, Xiaolin Wu*, LVQAC: Lattice Vector Quantization Coupled with Spatially Adaptive Companding for Efficient Learned Image Compression.
+
+
 
 ### ICCV
 
