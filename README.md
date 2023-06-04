@@ -7,7 +7,7 @@ Recent papers and codes related to learning-based data compression, including im
 * *Seungmin Jeon, Kwang Pyo Choi, Youngo Park, Chang-Su Kim*, Context-Based Trit-Plane Coding for Progressive Image Compression. [[paper]](https://arxiv.org/abs/2303.05715) [[code]](https://github.com/seungminjeon-github/CTC)
 * *Eirikur Agustsson, David Minnen, George Toderici, Fabian Mentzer*, Multi-Realism Image Compression with a Conditional Generator. [[paper]](https://arxiv.org/abs/2212.13824)
 * *Runzhao Yang, Tingxiong Xiao, Yuxiao Cheng, Jinli Suo, Qionghai Dai*, TINC: Tree-structured Implicit Neural Compression. [[paper]](https://arxiv.org/abs/2211.06689)[[code]](https://github.com/RichealYoung/TINC)
-* *Xi Zhang, Xiaolin Wu*, LVQAC: Lattice Vector Quantization Coupled with Spatially Adaptive Companding for Efficient Learned Image Compression.
+* *Xi Zhang, Xiaolin Wu*, LVQAC: Lattice Vector Quantization Coupled with Spatially Adaptive Companding for Efficient Learned Image Compression. [[paper]](https://arxiv.org/abs/2304.12319)
 * *Yi Yu, Yufei Wang, Wenhan Yang, Shijian Lu, Yap-peng Tan, Alex C. Kot*, Backdoor Attacks Against Deep Image Compression via Adaptive Frequency Trigger. [[paper]](https://arxiv.org/abs/2302.14677)
 * *Juncheol Ye, Hyunho Yeo, Jinwoo Park, Dongsu Han*, AccelIR: Task-aware Image Compression for Accelerating Neural Restoration. [[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Ye_AccelIR_Task-Aware_Image_Compression_for_Accelerating_Neural_Restoration_CVPR_2023_paper.html)[[code]](https://github.com/AccelIR-public/AccelIR-public)
 * *Jiahao Li, Bin Li, Yan Lu*, Neural Video Compression with Diverse Contexts. [[paper]](https://arxiv.org/abs/2302.14402)[[code]](https://github.com/microsoft/DCVC)
