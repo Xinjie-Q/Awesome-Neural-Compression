@@ -9,14 +9,14 @@ Recent papers and codes related to learning-based data compression, including im
 * *Runzhao Yang, Tingxiong Xiao, Yuxiao Cheng, Jinli Suo, Qionghai Dai*, TINC: Tree-structured Implicit Neural Compression. [[paper]](https://arxiv.org/abs/2211.06689)[[code]](https://github.com/RichealYoung/TINC)
 * *Xi Zhang, Xiaolin Wu*, LVQAC: Lattice Vector Quantization Coupled with Spatially Adaptive Companding for Efficient Learned Image Compression.
 * *Yi Yu, Yufei Wang, Wenhan Yang, Shijian Lu, Yap-peng Tan, Alex C. Kot*, Backdoor Attacks Against Deep Image Compression via Adaptive Frequency Trigger. [[paper]](https://arxiv.org/abs/2302.14677)
-* *Juncheol Ye, Hyunho Yeo, Jinwoo Park, Dongsu Han*, AccelIR: Task-aware Image Compression for Accelerating Neural Restoration. [[code]](https://github.com/AccelIR-public/AccelIR-public)
+* *Juncheol Ye, Hyunho Yeo, Jinwoo Park, Dongsu Han*, AccelIR: Task-aware Image Compression for Accelerating Neural Restoration. [[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Ye_AccelIR_Task-Aware_Image_Compression_for_Accelerating_Neural_Restoration_CVPR_2023_paper.html)[[code]](https://github.com/AccelIR-public/AccelIR-public)
 * *Jiahao Li, Bin Li, Yan Lu*, Neural Video Compression with Diverse Contexts. [[paper]](https://arxiv.org/abs/2302.14402)[[code]](https://github.com/microsoft/DCVC)
-* *Linfeng Qi, Jiahao Li, Bin Li, Houqiang Li, Yan Lu*, Motion Information Propagation for Neural Video Compression. 
-* *Zhihao Hu, Dong Xu*, Complexity-guided Slimmable Decoder for Efficient Deep Video Compression.
-* *Carlos Gomes, Roberto Azevedo, Christopher Schroers*, Video Compression with Entropy-Constrained Neural Representations.
+* *Linfeng Qi, Jiahao Li, Bin Li, Houqiang Li, Yan Lu*, Motion Information Propagation for Neural Video Compression. [[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Qi_Motion_Information_Propagation_for_Neural_Video_Compression_CVPR_2023_paper.html)
+* *Zhihao Hu, Dong Xu*, Complexity-guided Slimmable Decoder for Efficient Deep Video Compression. [[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Hu_Complexity-Guided_Slimmable_Decoder_for_Efficient_Deep_Video_Compression_CVPR_2023_paper.html)
+* *Carlos Gomes, Roberto Azevedo, Christopher Schroers*, Video Compression with Entropy-Constrained Neural Representations.[[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Gomes_Video_Compression_With_Entropy-Constrained_Neural_Representations_CVPR_2023_paper.html)
 * *Bowen Liu, Yu Chen, Rakesh Chowdary Machineni, Shiyu Liu, Hun-Seok Kim*, MMVC: Learned Multi-Mode Video Compression with Block-based Prediction Mode Selection and Density-Adaptive Entropy Coding. [[paper]](https://arxiv.org/abs/2304.02273)[[code]](https://github.com/BowenL0218/MMVC_video_codec)
 * *David Alexandre, Hsueh-Ming Hang, Wen-Hsiao Peng*, Hierarchical B-frame Video Compression Using Two-Layer CANF without Motion Coding. [[paper]](https://arxiv.org/abs/2304.02690)[[code]](https://nycu-clab.github.io/)
-* *Rui Song, Chunyang Fu, Shan Liu, Ge Li*, Efficient Hierarchical Entropy Model for Learned Point Cloud Compression. 
+* *Rui Song, Chunyang Fu, Shan Liu, Ge Li*, Efficient Hierarchical Entropy Model for Learned Point Cloud Compression. [[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Song_Efficient_Hierarchical_Entropy_Model_for_Learned_Point_Cloud_Compression_CVPR_2023_paper.html)
 
 
 ### ICCV
@@ -30,12 +30,11 @@ Recent papers and codes related to learning-based data compression, including im
 * *Wang Guo-Hua, Jiahao Li, Bin Li, Yan Lu*, EVC: Towards Real-Time Neural Image Compression with Mask Decay. [[paper]](https://openreview.net/forum?id=XUxad2Gj40n)[[code]](https://github.com/microsoft/DCVC)
 
 
-
 ### ICML
+* *Tongda Xu, Han Gao, Chenjian Gao, Yuanyuan Wang, Dailan He, Jinyong Pi, Jixiang Luo, Ziyu Zhu, Mao Ye, Hongwei Qin, Yan Wang, Jingjing Liu, Ya-Qin Zhang*, Bit Allocation using Optimization. [[paper]](https://arxiv.org/abs/2209.09422)[[code]](https://github.com/tongdaxu/Bit-Allocation-Using-Optimization)
+
 
 ### AAAI
-
-### IJCAI
 
 
 ## 2022
@@ -81,9 +80,6 @@ Recent papers and codes related to learning-based data compression, including im
 * *Tongda Xu, Yan Wang, Dailan He, Chenjian Gao, Han Gao, Kunzan Liu, Hongwei Qin*, Multiple-sample Neural Image Compression. [[paper]]()
 * *Jooyoung Lee, Seyoon Jeong, Munchurl Kim*, Selective compression learning of latent representations for variable-rate image compression. [[paper]]()[[code]](https://github.com/JooyoungLeeETRI/SCR)
 * *Chenjian Gao, Tongda Xu, Dailan He, Hongwei Qin, Yan Wang*, Flexible Neural Image Compression via Code Editing. [[paper]](https://arxiv.org/abs/2209.09244)
-
-
-
 
 ### ICLR
 * *Anji Liu, Stephan Mandt, Guy Van den Broeck*, Lossless Compression with Probabilistic Circuits. [[paper]](https://arxiv.org/abs/2111.11632)
