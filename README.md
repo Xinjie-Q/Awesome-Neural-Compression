@@ -40,7 +40,7 @@ Adaptive Networks and Autoregressive Patch-wise Modeling. [[paper]](https://arxi
 
 
 ### AAAI
-
+* *Yujun Huang, Bin Chen, Shiyu Qin, Jiawei Li, Yaowei Wang, Tao Dai, Shu-Tao Xia*, Learned Distributed Image Compression with Multi-Scale Patch Matching in Feature Domain. [[paper]](https://arxiv.org/pdf/2209.02514.pdf)
 
 ## 2022
 ### CVPR
