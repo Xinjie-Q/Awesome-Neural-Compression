@@ -37,6 +37,7 @@ Adaptive Networks and Autoregressive Patch-wise Modeling. [[paper]](https://arxi
 ### ICML
 * *Tongda Xu, Han Gao, Chenjian Gao, Yuanyuan Wang, Dailan He, Jinyong Pi, Jixiang Luo, Ziyu Zhu, Mao Ye, Hongwei Qin, Yan Wang, Jingjing Liu, Ya-Qin Zhang*, Bit Allocation using Optimization. [[paper]](https://arxiv.org/abs/2209.09422)[[code]](https://github.com/tongdaxu/Bit-Allocation-Using-Optimization)
 * *Matthew J. Muckley, Alaaeldin El-Nouby, Karen Ullrich, Hervé Jégou, Jakob Verbeek*, Improving Statistical Fidelity for Neural Image Compression with Implicit Local Likelihood Models.  [[paper]](https://arxiv.org/abs/2301.11189)
+* *Hee Min Choi, Hyoa Kang, Dokwan Oh*, Is Overfitting Necessary for Implicit Video Representation?[[paper]](https://openreview.net/forum?id=JuNIuHLm9y)
 
 
 ### AAAI
