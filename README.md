@@ -25,7 +25,17 @@ Adaptive Networks and Autoregressive Patch-wise Modeling. [[paper]](https://arxi
 
 
 ### ICCV
-
+* *Yibo Yang, Stephan Mandt*, Computationally-Efficient Neural Image Compression with Shallow Decoders. [[paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Yang_Computationally-Efficient_Neural_Image_Compression_with_Shallow_Decoders_ICCV_2023_paper.html)[[code]](https://github.com/mandt-lab/shallow-ntc)
+* *Yuan Tian, Guo Lu, Guangtao Zhai, Zhiyong Gao*, Non-Semantics Suppressed Mask Learning for Unsupervised Video Semantic Compression. [[paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Tian_Non-Semantics_Suppressed_Mask_Learning_for_Unsupervised_Video_Semantic_Compression_ICCV_2023_paper.html)
+* *Jongmin Park, Jooyoung Lee, Munchurl Kim*, COMPASS: High-Efficiency Deep Image Compression with Arbitrary-scale Spatial Scalability. [[paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Park_COMPASS_High-Efficiency_Deep_Image_Compression_with_Arbitrary-scale_Spatial_Scalability_ICCV_2023_paper.html)
+* *Sheng Shen, Huanjing Yue, Jingyu Yang*, Dec-Adapter: Exploring Efficient Decoder-Side Adapter for Bridging Screen Content and Natural Image Compression. [[paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Shen_Dec-Adapter_Exploring_Efficient_Decoder-Side_Adapter_for_Bridging_Screen_Content_and_ICCV_2023_paper.html)
+* *Lv Tang, Xinfeng Zhang, Gai Zhang, Xiaoqi Ma*, Scene Matters: Model-based Deep Video Compression. [[paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Tang_Scene_Matters_Model-based_Deep_Video_Compression_ICCV_2023_paper.html)**
+* *Mengyao Li, Liquan Shen, Peng Ye, Guorui Feng, Zheyin Wang*, RFD-ECNet: Extreme Underwater Image Compression with Reference to Feature Dictionary. [[paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Li_RFD-ECNet_Extreme_Underwater_Image_Compression_with_Reference_to_Feature_Dictionary_ICCV_2023_paper.html)
+* *Sharath Girish, Abhinav Shrivastava, Kamal Gupta*, SHACIRA: Scalable HAsh-grid Compression for Implicit Neural Representations. [[paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Girish_SHACIRA_Scalable_HAsh-grid_Compression_for_Implicit_Neural_Representations_ICCV_2023_paper.html)
+* *Yi-Hsin Chen, Ying-Chieh Weng, Chia-Hao Kao, Cheng Chien, Wei-Chen Chiu, Wen-Hsiao Peng*, TransTIC: Transferring Transformer-based Image Compression from Human Perception to Machine Perception. [[paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Chen_TransTIC_Transferring_Transformer-based_Image_Compression_from_Human_Perception_to_Machine_ICCV_2023_paper.html)
+* *Lvfang Tao, Wei Gao, Ge Li, Chenhao Zhang*, AdaNIC: Towards Practical Neural Image Compression via Dynamic Transform Routing. [[paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Tao_AdaNIC_Towards_Practical_Neural_Image_Compression_via_Dynamic_Transform_Routing_ICCV_2023_paper.html)
+* *Ruoyu Feng, Yixin Gao, Xin Jin, Runsen Feng, Zhibo Chen*, Semantically Structured Image Compression via Irregular Group-Based Decoupling. [[paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Feng_Semantically_Structured_Image_Compression_via_Irregular_Group-Based_Decoupling_ICCV_2023_paper.html)
+    
 ### NeurIPS
 
 ### ICLR
@@ -43,6 +53,14 @@ Adaptive Networks and Autoregressive Patch-wise Modeling. [[paper]](https://arxi
 
 ### AAAI
 * *Yujun Huang, Bin Chen, Shiyu Qin, Jiawei Li, Yaowei Wang, Tao Dai, Shu-Tao Xia*, Learned Distributed Image Compression with Multi-Scale Patch Matching in Feature Domain. [[paper]](https://arxiv.org/pdf/2209.02514.pdf)
+* *Mingyue Cui, Junhua Long, Mingjian Feng, Boyang Li, Huang Kai*, OctFormer: Efficient Octree-Based Transformer for Point Cloud Compression with Local Enhancement. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/25121)
+* *Xuhao Jiang, Weimin Tan, Tian Tan, Bo Yan, Liquan Shen*, Multi-Modality Deep Network for Extreme Learned Image Compression. [[paper]](https://arxiv.org/abs/2304.13583)
+* *Xinjian Zhang, Su Yang, Wuyang Luo, Longwen Gao, Weishan Zhang*, Video Compression Artifact Reduction by Fusing Motion Compensation and Global Context in a Swin-CNN Based Parallel Architecture. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/25458)
+* *Yujun Huang, Bin Chen, Shiyu Qin, Jiawei Li, Yaowei Wang, Tao Dai, Shu-Tao Xia*, TinyNeRF: Towards 100 x Compression of Voxel Radiance Fields. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/25469)[[code]](https://github.com/beimingli0626/tinyNeRF)
+* *Qishi Dong, Fengwei Zhou, Ning Kang, Chuanlong Xie, Shifeng Zhang, Jiawei Li, Heng Peng, Zhenguo Li*, DAMix: Exploiting Deep Autoregressive Model Zoo for Improving Lossless Compression Generalization. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/25543)
+* *Runzhao Yang, Tingxiong Xiao, Yuxiao Cheng, Qianni Cao, Jinyuan Qu, Jinli Suo, Qionghai Dai*, SCI: A Spectrum Concentrated Implicit Neural Compression for Biomedical Data. [[paper]](https://arxiv.org/abs/2209.15180v5)
+* *Jinhai Yang, Mengxi Guo, Shijie Zhao, Junlin Li, Li Zhang*, Self-Asymmetric Invertible Network for Compression-Aware Image Rescaling. [[paper]](https://arxiv.org/abs/2303.02353)
+
 
 ## 2022
 ### CVPR
@@ -80,6 +98,7 @@ Adaptive Networks and Autoregressive Patch-wise Modeling. [[paper]](https://arxi
 * *Sukai Wang, Ming Liu*, Point Cloud Compression using Range Image-based Entropy Model for Autonomous Driving. [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-20047-2_19) 
 * *Ruoyu Feng et al*, Image Coding for Machines with Omnipotent Feature Learning. [[paper]](https://arxiv.org/abs/2207.01932)
 * *Ka Leong Cheng, Yueqi Xie, Qifeng Chen*, Optimizing Image Compression via Joint Learning with Denoising. [[paper]](https://arxiv.org/abs/2207.10869) [[code]](https://github.com/felixcheng97/DenoiseCompression)
+* *Zizhang Li, Mengmeng Wang, Huaijin Pi, Kechun Xu, Jianbiao Mei, Yong Liu*, E-NeRV: Expedite Neural Video Representation with Disentangled Spatial-Temporal Context. [[paper]](https://arxiv.org/abs/2207.08132) [[code]](https://github.com/kyleleey/E-NeRV/tree/main)
 
 ### NeurIPS
 * *Anastasia Antsiferova, Sergey Lavrushkin, Maksim Smirnov, Aleksandr Gushchin, Dmitriy Vatolin, Dmitriy Kulikov*, Video compression dataset and benchmark of learning-based video-quality metrics. [[paper]](https://openreview.net/forum?id=My5AI9aM49R)
@@ -147,6 +166,8 @@ Adaptive Networks and Autoregressive Patch-wise Modeling. [[paper]](https://arxi
 * *Yann Dubois, Benjamin Bloem-Reddy, Karen Ullrich, Chris J. Maddison*, Lossy Compression for Lossless Prediction. [[paper]](https://arxiv.org/abs/2106.10800)
 * *Chen Zhang, Shifeng Zhang, Fabio Maria Carlucci, Zhenguo Li*, OSOA: One-Shot Online Adaptation of Deep Generative Models for Lossless Compression. [[paper]](https://arxiv.org/abs/2111.01662v1)
 * *Siddharth Reddy, Anca D. Dragan, Sergey Levine*, Pragmatic Image Compression for Human-in-the-Loop Decision-Making. [[paper]](https://arxiv.org/abs/2108.04219)
+* *Hao Chen, Bo He, Hanyu Wang, Yixuan Ren, Ser-Nam Lim, Abhinav Shrivastava*, NeRV: Neural Representations for Videos. [[paper]](https://arxiv.org/abs/2110.13903)[[code]](https://github.com/haochen-rye/NeRV/tree/master)
+
 
 ### ICLR
 * *Ruihan Yang, Yibo Yang, Joseph Marino, Stephan Mandt*, Hierarchical Autoregressive Modeling for Neural Video Compression. [[paper]](https://arxiv.org/abs/2010.10258)[[code]](https://github.com/privateyoung/Youtube-NT)
