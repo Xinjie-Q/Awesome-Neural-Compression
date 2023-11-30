@@ -1,5 +1,5 @@
 # Deep-Data-Compression
-Recent papers and codes related to learning-based data compression, including images, videos and point clouds. 
+Recent papers and codes related to learning-based data compression, including images, videos, audios and point clouds. 
 
 ## 2023
 ### CVPR
@@ -37,6 +37,21 @@ Adaptive Networks and Autoregressive Patch-wise Modeling. [[paper]](https://arxi
 * *Ruoyu Feng, Yixin Gao, Xin Jin, Runsen Feng, Zhibo Chen*, Semantically Structured Image Compression via Irregular Group-Based Decoupling. [[paper]](https://arxiv.org/abs/2305.02586)
     
 ### NeurIPS
+* *Zongyu Guo, Gergely Flamich, Jiajun He, Zhibo Chen, José Miguel Hernández-Lobato*, Compression with Bayesian Implicit Neural Representations. [[paper]](https://arxiv.org/abs/2305.19185)[[code]](https://github.com/cambridge-mlg/combiner)
+* *Rithesh Kumar, Prem Seetharaman, Alejandro Luebs, Ishaan Kumar, Kundan Kumar*, High-Fidelity Audio Compression with Improved RVQGAN. [[paper]](https://arxiv.org/abs/2306.06546)[[code]](https://github.com/descriptinc/descript-audio-codec)
+* *Yanghao Li, Tongda Xu, Yan Wang, Jingjing Liu, Ya-Qin Zhang*, Idempotent Learned Image Compression with Right-Inverse. [[paper]](https://openreview.net/forum?id=35dOU92OJM)
+* *Gergely Flamich, Stratis Markou, Jose Miguel Hernandez Lobato*, Faster Relative Entropy Coding with Greedy Rejection Coding. [[paper]](https://arxiv.org/abs/2309.15746)
+* *Ho Man Kwan, Ge Gao, Fan Zhang, Andrew Gower, David Bull*, HiNeRV: Video Compression with Hierarchical Encoding-based Neural Representation. [[paper]](https://arxiv.org/abs/2306.09818)[[code]](https://github.com/hmkx/HiNeRV)
+* *Kelsey Lieberman, James Diffenderfer, Charles Godfrey, Bhavya Kailkhura*, Neural Image Compression: Generalization, Robustness, and Spectral Biases. [[paper]](https://arxiv.org/abs/2307.08657)[[code]](https://github.com/klieberman/ood_nic)
+* *Ruihan Yang, Stephan Mandt*, Lossy Image Compression with Conditional Diffusion Models. [[paper]](https://arxiv.org/abs/2209.06950)
+* *Muhammad Salman Ali, Yeongwoong Kim, Maryam Qamar, Sung-Chang Lim, Donghyun Kim, Chaoning Zhang, Sung-Ho Bae, Hui Yong Kim*, Towards Efficient Image Compression Without Autoregressive Models. [[paper]](https://openreview.net/forum?id=1ihGy9vAIg)
+* *Sadaf Salehkalaibar, Buu Phan, Jun Chen, Wei Yu, Ashish Khisti*, On the choice of Perception Loss Function for Learned Video Compression. [[paper]](https://arxiv.org/abs/2305.19301)
+* *Po-han Li, Sravan Kumar Ankireddy, Ruihan Zhao, Hossein Nourkhiz Mahjoub, Ehsan Moradi-Pari, Ufuk Topcu, Sandeep Chinchali, Hyeji Kim*, Task-aware Distributed Source Coding under Dynamic Bandwidth. [[paper]](https://arxiv.org/abs/2305.15523)[[code]](https://github.com/UTAustin-SwarmLab/Task-aware-Distributed-Source-Coding)
+* *Haoyu Guo, Sida Peng, Yunzhi Yan, Linzhan Mou, Yujun Shen, Hujun Bao, Xiaowei Zhou*, Compact Neural Volumetric Video Representations with Dynamic Codebooks. [[paper]](https://openreview.net/forum?id=xTgM7XLN9P)[[code]](https://github.com/zju3dv/compact_vv)
+
+    
+
+
 
 ### ICLR
 * *Xinjie Zhang, Jiawei Shao, Jun Zhang*, LDMIC: Learning-based Distributed Multi-view Image Coding. [[paper]](https://openreview.net/forum?id=ILQVw4cA5F9)[[code]](https://github.com/Xinjie-Q/LDMIC)
