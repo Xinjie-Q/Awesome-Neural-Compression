@@ -21,6 +21,7 @@ Recent papers and codes related to learning-based data compression, including im
 * *Shishira R Maiya, Sharath Girish, Max Ehrlich, Hanyu Wang, Kwot Sin Lee, Patrick Poirson, Pengxiang Wu, Chen Wang, Abhinav Shrivastava*, NIRVANA: Neural Implicit Representations of Videos with
 Adaptive Networks and Autoregressive Patch-wise Modeling. [[paper]](https://arxiv.org/abs/2212.14593)
 * *Qi Zhao, M. Salman Asif, Zhan Ma*, DNeRV: Modeling Inherent Dynamics via Difference Neural Representation for Videos. [[paper]](https://arxiv.org/abs/2304.06544)
+* *Liao Wang, Qiang Hu, Qihan He, Ziyu Wang, Jingyi Yu, Tinne Tuytelaars, Lan Xu, Minye Wu*, Neural Residual Radiance Fields for Streamably FreeViewpoint Videos. [[paper]](https://arxiv.org/abs/2304.04452)
 * *Rui Song, Chunyang Fu, Shan Liu, Ge Li*, Efficient Hierarchical Entropy Model for Learned Point Cloud Compression. [[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Song_Efficient_Hierarchical_Entropy_Model_for_Learned_Point_Cloud_Compression_CVPR_2023_paper.html)
 
 
