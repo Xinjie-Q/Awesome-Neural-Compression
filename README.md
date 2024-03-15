@@ -1,6 +1,23 @@
 # Deep-Data-Compression
 Recent papers and codes related to learning-based data compression, including images, videos, audios, point clouds and nerf models. 
 
+## 2024
+### CVPR
+* *Xinjie Zhang, Ren Yang, Dailan He, Xingtong Ge, Tongda Xu, Yan Wang, Hongwei Qin, Jun Zhang*, Boosting Neural Representations for Videos with a Conditional Decoder. [[paper]](https://arxiv.org/abs/2402.18152)
+* *Xingtong Ge, Jixiang Luo, Xinjie Zhang, Tongda Xu, Guo Lu, Dailan He, Jing Geng, Yan Wang, Jun Zhang, Hongwei Qin*, Controlling Encoder of Deep Video Compression for Machine. [[paper]]()
+ 
+### ECCV
+
+### NeurIPS
+
+### ICLR
+
+### ICML
+
+### AAAI
+
+### IJCAI
+
 ## 2023
 ### CVPR
 * *Jinming Liu, Heming Sun, Jiro Katto*, Learned Image Compression with Mixed Transformer-CNN Architectures. [[paper]](https://arxiv.org/abs/2303.14978)[[code]](https://github.com/jmliu206/LIC_TCM)
@@ -49,10 +66,6 @@ Adaptive Networks and Autoregressive Patch-wise Modeling. [[paper]](https://arxi
 * *Sadaf Salehkalaibar, Buu Phan, Jun Chen, Wei Yu, Ashish Khisti*, On the choice of Perception Loss Function for Learned Video Compression. [[paper]](https://arxiv.org/abs/2305.19301)
 * *Po-han Li, Sravan Kumar Ankireddy, Ruihan Zhao, Hossein Nourkhiz Mahjoub, Ehsan Moradi-Pari, Ufuk Topcu, Sandeep Chinchali, Hyeji Kim*, Task-aware Distributed Source Coding under Dynamic Bandwidth. [[paper]](https://arxiv.org/abs/2305.15523)[[code]](https://github.com/UTAustin-SwarmLab/Task-aware-Distributed-Source-Coding)
 * *Haoyu Guo, Sida Peng, Yunzhi Yan, Linzhan Mou, Yujun Shen, Hujun Bao, Xiaowei Zhou*, Compact Neural Volumetric Video Representations with Dynamic Codebooks. [[paper]](https://openreview.net/forum?id=xTgM7XLN9P)[[code]](https://github.com/zju3dv/compact_vv)
-
-    
-
-
 
 ### ICLR
 * *Xinjie Zhang, Jiawei Shao, Jun Zhang*, LDMIC: Learning-based Distributed Multi-view Image Coding. [[paper]](https://openreview.net/forum?id=ILQVw4cA5F9)[[code]](https://github.com/Xinjie-Q/LDMIC)
