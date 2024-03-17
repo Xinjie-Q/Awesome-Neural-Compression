@@ -1,5 +1,5 @@
 # Deep-Data-Compression
-Recent papers and codes related to learning-based data compression, including images, videos, audios, point clouds and nerf models. 
+Recent papers and codes related to learning-based data compression, including images, videos, audios, point clouds, nerf models, Gaussian Splatting. 
 
 ## 2024
 ### CVPR
@@ -9,6 +9,8 @@ Recent papers and codes related to learning-based data compression, including im
 * *Zhihao Duan, Ming Lu, Justin Yang, Jiangpeng He, Zhan Ma, Fengqing Zhu*, Towards Backward-Compatible Continual Learning of Image Compression. [[paper]](https://arxiv.org/abs/2402.18862)[[code]](https://gitlab.com/viper-purdue/continual-compression)
 * *Hao Yan, Zhihui Ke, Xiaobo Zhou, Tie Qiu, Xidong Shi, Dadong Jiang*, DS-NeRV: Implicit Neural Video Representation with Decomposed Static and Dynamic Codes. [[paper]]()[[code]](https://haoyan14.github.io/DS-NeRV/)
 * *Jiahao Li, Bin Li, Yan Lu*, Neural Video Compression with Feature Modulation. [[paper]](https://arxiv.org/abs/2402.17414)[[code]](https://github.com/microsoft/DCVC)
+* *Yuheng Jiang, Zhehao Shen, Penghao Wang, Zhuo Su, Yu Hong, Yingliang Zhang, Jingyi Yu, Lan Xu*, HiFi4G: High-Fidelity Human Performance Rendering via Compact Gaussian Splatting. [[paper]](https://arxiv.org/abs/2312.03461)
+* *Simon Niedermayr, Josef Stumpfegger, Rüdiger Westermann*, Compressed 3D Gaussian Splatting for Accelerated Novel View Synthesis. [[paper]](https://arxiv.org/abs/2401.02436)[[code]](https://github.com/KeKsBoTer/c3dgs/)
 * **, Laplacian-guided Entropy Model in Neural Codec with Blur-dissipated Synthesis.
 * **, Combining Frame and GOP Embeddings for Neural Video Representation.
 * **, NeRFCodec: Neural Feature Compression Meets Neural Radiance Fields for Memory-efficient Scene Representation.
@@ -17,6 +19,8 @@ Recent papers and codes related to learning-based data compression, including im
 * **, Implicit Motion Function.
 * **, Generative Latent Coding for Ultra-Low Bitrate Image Compression.
 * **, Versatile Neural Video Codec.
+
+
 
 ### ECCV
 
