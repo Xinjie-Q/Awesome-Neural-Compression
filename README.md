@@ -11,12 +11,19 @@ Recent papers and codes related to learning-based data compression, including im
 * *Jiahao Li, Bin Li, Yan Lu*, Neural Video Compression with Feature Modulation. [[paper]](https://arxiv.org/abs/2402.17414)[[code]](https://github.com/microsoft/DCVC)
 
 Laplacian-guided Entropy Model in Neural Codec with Blur-dissipated Synthesis
+
 Combining Frame and GOP Embeddings for Neural Video Representation
+
 NeRFCodec: Neural Feature Compression Meets Neural Radiance Fields for Memory-efficient Scene Representation
+
 Learned Lossless Image Compression based on Bit Plane Slicing
+
 Look-Up Table Compression for Efficient Image Restoration
+
 Implicit Motion Function
+
 Generative Latent Coding for Ultra-Low Bitrate Image Compression
+
 Versatile Neural Video Codec
 
 ### ECCV
