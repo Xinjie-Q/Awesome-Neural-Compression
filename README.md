@@ -3,18 +3,51 @@ Recent papers and codes related to learning-based data compression, including im
 
 ## 2024
 ### CVPR
-* *Xinjie Zhang, Ren Yang, Dailan He, Xingtong Ge, Tongda Xu, Yan Wang, Hongwei Qin, Jun Zhang*, Boosting Neural Representations for Videos with a Conditional Decoder. [[paper]](https://arxiv.org/abs/2402.18152)
+* *Xinjie Zhang, Ren Yang, Dailan He, Xingtong Ge, Tongda Xu, Yan Wang, Hongwei Qin, Jun Zhang*, Boosting Neural Representations for Videos with a Conditional Decoder. [[paper]](https://arxiv.org/abs/2402.18152)[[code]](https://github.com/Xinjie-Q/Boosting-NeRV)
 * *Xingtong Ge, Jixiang Luo, Xinjie Zhang, Tongda Xu, Guo Lu, Dailan He, Jing Geng, Yan Wang, Jun Zhang, Hongwei Qin*, Controlling Encoder of Deep Video Compression for Machine. [[paper]]()
- 
+* *Hyunjik Kim, Matthias Bauer, Lucas Theis, Jonathan Richard Schwarz, Emilien Dupont*, C3: High-performance and low-complexity neural compression from a single image or video. [[paper]](https://arxiv.org/abs/2312.02753)
+* *Zhihao Duan, Ming Lu, Justin Yang, Jiangpeng He, Zhan Ma, Fengqing Zhu*, Towards Backward-Compatible Continual Learning of Image Compression. [[paper]](https://arxiv.org/abs/2402.18862)[[code]](https://gitlab.com/viper-purdue/continual-compression)
+* *Hao Yan, Zhihui Ke, Xiaobo Zhou, Tie Qiu, Xidong Shi, Dadong Jiang*, DS-NeRV: Implicit Neural Video Representation with Decomposed Static and Dynamic Codes. [[paper]]()[[code]](https://haoyan14.github.io/DS-NeRV/)
+* *Jiahao Li, Bin Li, Yan Lu*, Neural Video Compression with Feature Modulation. [[paper]](https://arxiv.org/abs/2402.17414)[[code]](https://github.com/microsoft/DCVC)
+
+Laplacian-guided Entropy Model in Neural Codec with Blur-dissipated Synthesis
+Combining Frame and GOP Embeddings for Neural Video Representation
+NeRFCodec: Neural Feature Compression Meets Neural Radiance Fields for Memory-efficient Scene Representation
+Learned Lossless Image Compression based on Bit Plane Slicing
+Look-Up Table Compression for Efficient Image Restoration
+Implicit Motion Function
+Generative Latent Coding for Ultra-Low Bitrate Image Compression
+Versatile Neural Video Codec
+
 ### ECCV
 
 ### NeurIPS
 
 ### ICLR
+* *Tongda Xu, Ziran Zhu, Dailan He, Yanghao Li, Lina Guo, Yuanyuan Wang, Zhe Wang, Hongwei Qin, Yan Wang, Jingjing Liu, Ya-Qin Zhang*, Idempotence and Perceptual Image Compression. [[paper]](https://arxiv.org/abs/2401.08920)[[code]](https://github.com/tongdaxu/Idempotence-and-Perceptual-Image-Compression)
+* *Yufeng Zhang, Hang Yu, Jianguo Li, Weiyao Lin*, Finite-State Autoregressive Entropy Coding for Efficient Learned Lossless Compression. [[paper]](https://openreview.net/forum?id=D5mJSNtUtv)
+* *Joo Chan Lee, Daniel Rho, Seungtae Nam, Jong Hwan Ko, Eunbyung Park*, Coordinate-Aware Modulation for Neural Fields. [[paper]](https://arxiv.org/abs/2311.14993)[[code]](https://maincold2.github.io/cam/)
+* *Grégoire Delétang, Anian Ruoss, Paul-Ambroise Duquenne, Elliot Catt, Tim Genewein, Christopher Mattern, Jordi Grau-Moya, Li Kevin Wenliang, Matthew Aitchison, Laurent Orseau, Marcus Hutter, Joel Veness*, Language Modeling Is Compression. [[paper]](https://arxiv.org/abs/2309.10668)
+* *Yiwei Zhang, Guo Lu, Yunuo Chen, Shen Wang, Yibo Shi, Jing Wang, Li Song*, Neural Rate Control for Learned Video Compression. [[paper]](https://openreview.net/forum?id=42lcaojZug)
+* *Guangchi Fang, Qingyong Hu, Longguang Wang, Yulan Guo*, ACRF: Compressing Explicit Neural Radiance Fields via Attribute Compression. [[paper]](https://openreview.net/forum?id=POFrdKvpea)
+* *Marlène Careil, Matthew J. Muckley, Jakob Verbeek, Stéphane Lathuilière*, Towards image compression with perfect realism at ultra-low bitrates. [[paper]](https://arxiv.org/abs/2310.10325)
+* *Jiajun He, Gergely Flamich, Zongyu Guo, José Miguel Hernández-Lobato*, RECOMBINER: Robust and Enhanced Compression with Bayesian Implicit Neural Representations. [[paper]](https://arxiv.org/abs/2309.17182)[[code]](https://github.com/cambridge-mlg/RECOMBINER/)
+* *Ivan Butakov, Alexander Tolmachev, Sofia Malanchuk, Anna Neopryatnaya, Alexey Frolov, Kirill Andreev*, Information Bottleneck Analysis of Deep Neural Networks via Lossy Compression. [[paper]](https://arxiv.org/abs/2305.08013)
+* *Han Li, Shaohui Li, Wenrui Dai, Chenglin Li, Junni Zou, Hongkai Xiong*, FTIC: Frequency-Aware Transformer for Learned Image Compression. [[paper]](https://openreview.net/forum?id=HKGQDDTuvZ)
+* *Edouard Yvinec, Arnaud Dapogny, Kevin Bailly*, Network Memory Footprint Compression Through Jointly Learnable Codebooks and Mappings. [[paper]](https://arxiv.org/abs/2309.17361)
+* *Julius Kunze, Daniel Severo, Giulio Zani, Jan-Willem van de Meent, James Townsend*, Entropy Coding of Unordered Data Structures. [[paper]](https://openreview.net/forum?id=afQuNt3Ruh)[[code]](https://github.com/juliuskunze/shuffle-coding)
 
 ### ICML
 
 ### AAAI
+* *Ming Lu, Zhihao Duan, Fengqing Zhu, Zhan Ma*, Deep Hierarchical Video Compression. [[paper]](https://arxiv.org/abs/2312.07126)
+* *Huiming Zheng, Wei Gao*, End-to-End RGB-D Image Compression via Exploiting Channel-Modality Redundancy. 
+* *Ao Luo, Linxin Song, Keisuke Nonaka, Kyohei Unno, Heming Sun, Masayuki Goto, Jiro Kattok*, SCP: Spherical-Coordinate-Based Learned Point Cloud Compression. [[paper]](https://arxiv.org/abs/2308.12535)
+* *Shilv Cai, Liqun Chen, Sheng Zhong, Luxin Yan, Jiahuan Zhou, Xu Zou*, Make Lossy Compression Meaningful for Low-Light Image. [[paper]](https://arxiv.org/html/2305.15030v3)
+* *Qiuyu Duan, Zhongyun Hua, Qing Liao, Yushu Zhang, LEO Yu Zhang*, Conditional Backdoor Attack via JPEG Compression. 
+* *Guangchi Fang, Qingyong Hu, Longguang Wang, Yulan Guo*, ACRF: Compressing Explicit Neural Radiance Fields via Attribute Compression. [[paper]](https://openreview.net/forum?id=POFrdKvpea)
+* *Chuanbo Tang, Xihua Sheng, Zhuoyuan Li, Haotian Zhang, Li Li, Dong Liu*, Offline and Online Optical Flow Enhancement for Deep Video Compression. [[paper]](https://arxiv.org/abs/2307.05092)
+* *Miaohui Wang, Runnan Huang, Hengjin Dong, Di Lin, Song Yun, Wuyuan Xie*, msLPCC: A Multimodal-Driven Scalable Framework for Deep LiDAR Point Cloud Compression.
 
 ### IJCAI
 
