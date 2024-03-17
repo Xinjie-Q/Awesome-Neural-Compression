@@ -9,22 +9,14 @@ Recent papers and codes related to learning-based data compression, including im
 * *Zhihao Duan, Ming Lu, Justin Yang, Jiangpeng He, Zhan Ma, Fengqing Zhu*, Towards Backward-Compatible Continual Learning of Image Compression. [[paper]](https://arxiv.org/abs/2402.18862)[[code]](https://gitlab.com/viper-purdue/continual-compression)
 * *Hao Yan, Zhihui Ke, Xiaobo Zhou, Tie Qiu, Xidong Shi, Dadong Jiang*, DS-NeRV: Implicit Neural Video Representation with Decomposed Static and Dynamic Codes. [[paper]]()[[code]](https://haoyan14.github.io/DS-NeRV/)
 * *Jiahao Li, Bin Li, Yan Lu*, Neural Video Compression with Feature Modulation. [[paper]](https://arxiv.org/abs/2402.17414)[[code]](https://github.com/microsoft/DCVC)
-
-Laplacian-guided Entropy Model in Neural Codec with Blur-dissipated Synthesis
-
-Combining Frame and GOP Embeddings for Neural Video Representation
-
-NeRFCodec: Neural Feature Compression Meets Neural Radiance Fields for Memory-efficient Scene Representation
-
-Learned Lossless Image Compression based on Bit Plane Slicing
-
-Look-Up Table Compression for Efficient Image Restoration
-
-Implicit Motion Function
-
-Generative Latent Coding for Ultra-Low Bitrate Image Compression
-
-Versatile Neural Video Codec
+* **, Laplacian-guided Entropy Model in Neural Codec with Blur-dissipated Synthesis.
+* **, Combining Frame and GOP Embeddings for Neural Video Representation.
+* **, NeRFCodec: Neural Feature Compression Meets Neural Radiance Fields for Memory-efficient Scene Representation.
+* **, Learned Lossless Image Compression based on Bit Plane Slicing.
+* **, Look-Up Table Compression for Efficient Image Restoration.
+* **, Implicit Motion Function.
+* **, Generative Latent Coding for Ultra-Low Bitrate Image Compression.
+* **, Versatile Neural Video Codec.
 
 ### ECCV
 
