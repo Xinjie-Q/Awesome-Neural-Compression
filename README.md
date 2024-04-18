@@ -1,19 +1,19 @@
-# Awesome Neural Data Compression Resources
+# Awesome Neural Compression Resources
 Recent papers and codes related to learning-based data compression, including images, videos, audios, point clouds, nerf models, Gaussian Splatting. 
 
 ## 2024
 ### CVPR
-* *Xinjie Zhang, Ren Yang, Dailan He, Xingtong Ge, Tongda Xu, Yan Wang, Hongwei Qin, Jun Zhang*, Boosting Neural Representations for Videos with a Conditional Decoder. [[paper]](https://arxiv.org/abs/2402.18152)[[code]](https://github.com/Xinjie-Q/Boosting-NeRV)
-* *Xingtong Ge, Jixiang Luo, Xinjie Zhang, Tongda Xu, Guo Lu, Dailan He, Jing Geng, Yan Wang, Jun Zhang, Hongwei Qin*, Controlling Encoder of Deep Video Compression for Machine. [[paper]]()
+* *Xinjie Zhang, Ren Yang, Dailan He, Xingtong Ge, Tongda Xu, Yan Wang, Hongwei Qin, Jun Zhang*, Boosting Neural Representations for Videos with a Conditional Decoder. [[paper]](https://arxiv.org/abs/2402.18152)[[code]](https://github.com/Xinjie-Q/Boosting-NeRV) (*Highlight*)
+* *Xingtong Ge, Jixiang Luo, Xinjie Zhang, Tongda Xu, Guo Lu, Dailan He, Jing Geng, Yan Wang, Jun Zhang, Hongwei Qin*, Task-Aware Encoder Control for Deep Video Compression. [[paper]](https://arxiv.org/abs/2404.04848)
 * *Hyunjik Kim, Matthias Bauer, Lucas Theis, Jonathan Richard Schwarz, Emilien Dupont*, C3: High-performance and low-complexity neural compression from a single image or video. [[paper]](https://arxiv.org/abs/2312.02753)
 * *Zhihao Duan, Ming Lu, Justin Yang, Jiangpeng He, Zhan Ma, Fengqing Zhu*, Towards Backward-Compatible Continual Learning of Image Compression. [[paper]](https://arxiv.org/abs/2402.18862)[[code]](https://gitlab.com/viper-purdue/continual-compression)
 * *Hao Yan, Zhihui Ke, Xiaobo Zhou, Tie Qiu, Xidong Shi, Dadong Jiang*, DS-NeRV: Implicit Neural Video Representation with Decomposed Static and Dynamic Codes. [[paper]]()[[code]](https://haoyan14.github.io/DS-NeRV/)
 * *Jiahao Li, Bin Li, Yan Lu*, Neural Video Compression with Feature Modulation. [[paper]](https://arxiv.org/abs/2402.17414)[[code]](https://github.com/microsoft/DCVC)
 * *Yuheng Jiang, Zhehao Shen, Penghao Wang, Zhuo Su, Yu Hong, Yingliang Zhang, Jingyi Yu, Lan Xu*, HiFi4G: High-Fidelity Human Performance Rendering via Compact Gaussian Splatting. [[paper]](https://arxiv.org/abs/2312.03461)
 * *Simon Niedermayr, Josef Stumpfegger, Rüdiger Westermann*, Compressed 3D Gaussian Splatting for Accelerated Novel View Synthesis. [[paper]](https://arxiv.org/abs/2401.02436)[[code]](https://github.com/KeKsBoTer/c3dgs/)
-* **, Laplacian-guided Entropy Model in Neural Codec with Blur-dissipated Synthesis.
+* *Atefeh Khoshkhahtinat, Ali Zafari, Piyush M. Mehta, Nasser M. Nasrabadi*, Laplacian-guided Entropy Model in Neural Codec with Blur-dissipated Synthesis. [[paper]](https://arxiv.org/abs/2403.16258)
+* *Sicheng Li, Hao Li, Yiyi Liao, Lu Yu*, NeRFCodec: Neural Feature Compression Meets Neural Radiance Fields for Memory-efficient Scene Representation. [[paper]](https://arxiv.org/abs/2404.02185)
 * **, Combining Frame and GOP Embeddings for Neural Video Representation.
-* **, NeRFCodec: Neural Feature Compression Meets Neural Radiance Fields for Memory-efficient Scene Representation.
 * **, Learned Lossless Image Compression based on Bit Plane Slicing.
 * **, Look-Up Table Compression for Efficient Image Restoration.
 * **, Implicit Motion Function.
