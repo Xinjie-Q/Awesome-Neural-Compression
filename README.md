@@ -3,7 +3,7 @@ Recent papers and codes related to learning-based data compression, including im
 
 ## 2024
 ### CVPR
-* *Xinjie Zhang, Ren Yang, Dailan He, Xingtong Ge, Tongda Xu, Yan Wang, Hongwei Qin, Jun Zhang*, Boosting Neural Representations for Videos with a Conditional Decoder. [[paper]](https://arxiv.org/abs/2402.18152)[[code]](https://github.com/Xinjie-Q/Boosting-NeRV) (*Highlight*)
+* *Xinjie Zhang, Ren Yang, Dailan He, Xingtong Ge, Tongda Xu, Yan Wang, Hongwei Qin, Jun Zhang*, Boosting Neural Representations for Videos with a Conditional Decoder. [[paper]](https://arxiv.org/abs/2402.18152)[[code]](https://github.com/Xinjie-Q/Boosting-NeRV) (**Highlight**)
 * *Xingtong Ge, Jixiang Luo, Xinjie Zhang, Tongda Xu, Guo Lu, Dailan He, Jing Geng, Yan Wang, Jun Zhang, Hongwei Qin*, Task-Aware Encoder Control for Deep Video Compression. [[paper]](https://arxiv.org/abs/2404.04848)
 * *Hyunjik Kim, Matthias Bauer, Lucas Theis, Jonathan Richard Schwarz, Emilien Dupont*, C3: High-performance and low-complexity neural compression from a single image or video. [[paper]](https://arxiv.org/abs/2312.02753)
 * *Zhihao Duan, Ming Lu, Justin Yang, Jiangpeng He, Zhan Ma, Fengqing Zhu*, Towards Backward-Compatible Continual Learning of Image Compression. [[paper]](https://arxiv.org/abs/2402.18862)[[code]](https://gitlab.com/viper-purdue/continual-compression)
@@ -44,13 +44,13 @@ Recent papers and codes related to learning-based data compression, including im
 
 ### AAAI
 * *Ming Lu, Zhihao Duan, Fengqing Zhu, Zhan Ma*, Deep Hierarchical Video Compression. [[paper]](https://arxiv.org/abs/2312.07126)
-* *Huiming Zheng, Wei Gao*, End-to-End RGB-D Image Compression via Exploiting Channel-Modality Redundancy. 
+* *Huiming Zheng, Wei Gao*, End-to-End RGB-D Image Compression via Exploiting Channel-Modality Redundancy. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28588)
 * *Ao Luo, Linxin Song, Keisuke Nonaka, Kyohei Unno, Heming Sun, Masayuki Goto, Jiro Kattok*, SCP: Spherical-Coordinate-Based Learned Point Cloud Compression. [[paper]](https://arxiv.org/abs/2308.12535)
 * *Shilv Cai, Liqun Chen, Sheng Zhong, Luxin Yan, Jiahuan Zhou, Xu Zou*, Make Lossy Compression Meaningful for Low-Light Image. [[paper]](https://arxiv.org/html/2305.15030v3)
-* *Qiuyu Duan, Zhongyun Hua, Qing Liao, Yushu Zhang, LEO Yu Zhang*, Conditional Backdoor Attack via JPEG Compression. 
+* *Qiuyu Duan, Zhongyun Hua, Qing Liao, Yushu Zhang, LEO Yu Zhang*, Conditional Backdoor Attack via JPEG Compression. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29957)
 * *Guangchi Fang, Qingyong Hu, Longguang Wang, Yulan Guo*, ACRF: Compressing Explicit Neural Radiance Fields via Attribute Compression. [[paper]](https://openreview.net/forum?id=POFrdKvpea)
 * *Chuanbo Tang, Xihua Sheng, Zhuoyuan Li, Haotian Zhang, Li Li, Dong Liu*, Offline and Online Optical Flow Enhancement for Deep Video Compression. [[paper]](https://arxiv.org/abs/2307.05092)
-* *Miaohui Wang, Runnan Huang, Hengjin Dong, Di Lin, Song Yun, Wuyuan Xie*, msLPCC: A Multimodal-Driven Scalable Framework for Deep LiDAR Point Cloud Compression.
+* *Miaohui Wang, Runnan Huang, Hengjin Dong, Di Lin, Song Yun, Wuyuan Xie*, msLPCC: A Multimodal-Driven Scalable Framework for Deep LiDAR Point Cloud Compression. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28362)
 
 ### IJCAI
 
