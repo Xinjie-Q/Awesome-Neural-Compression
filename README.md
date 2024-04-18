@@ -1,4 +1,4 @@
-# Deep-Data-Compression
+# Awesome Neural Data Compression Resources
 Recent papers and codes related to learning-based data compression, including images, videos, audios, point clouds, nerf models, Gaussian Splatting. 
 
 ## 2024
