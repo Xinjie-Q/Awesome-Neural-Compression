@@ -3,7 +3,7 @@ Recent papers and codes related to learning-based data compression, including im
 
 ## 2024
 ### CVPR
-* *Xinjie Zhang, Ren Yang, Dailan He, Xingtong Ge, Tongda Xu, Yan Wang, Hongwei Qin, Jun Zhang*, Boosting Neural Representations for Videos with a Conditional Decoder. [[paper]](https://arxiv.org/abs/2402.18152)[[code]](https://github.com/Xinjie-Q/Boosting-NeRV) (**Highlight**)
+* *Xinjie Zhang, Ren Yang, Dailan He, Xingtong Ge, Tongda Xu, Yan Wang, Hongwei Qin, Jun Zhang*, Boosting Neural Representations for Videos with a Conditional Decoder. [[paper]](https://arxiv.org/abs/2402.18152)[[code]](https://github.com/Xinjie-Q/Boosting-NeRV)
 * *Xingtong Ge, Jixiang Luo, Xinjie Zhang, Tongda Xu, Guo Lu, Dailan He, Jing Geng, Yan Wang, Jun Zhang, Hongwei Qin*, Task-Aware Encoder Control for Deep Video Compression. [[paper]](https://arxiv.org/abs/2404.04848)
 * *Hyunjik Kim, Matthias Bauer, Lucas Theis, Jonathan Richard Schwarz, Emilien Dupont*, C3: High-performance and low-complexity neural compression from a single image or video. [[paper]](https://arxiv.org/abs/2312.02753)
 * *Zhihao Duan, Ming Lu, Justin Yang, Jiangpeng He, Zhan Ma, Fengqing Zhu*, Towards Backward-Compatible Continual Learning of Image Compression. [[paper]](https://arxiv.org/abs/2402.18862)[[code]](https://gitlab.com/viper-purdue/continual-compression)
