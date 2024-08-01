@@ -21,7 +21,7 @@ Recent papers and codes related to learning-based data compression, including im
 ### ECCV
 * *Xinjie Zhang, Xingtong Ge, Tongda Xu, Dailan He, Yan Wang, Hongwei Qin, Guo Lu, Jing Geng, Jun Zhang*, GaussianImage: 1000 FPS Image Representation and Compression by 2D Gaussian Splatting. [[paper]](https://arxiv.org/abs/2402.18152)[[code]](https://github.com/Xinjie-Q/GaussianImage)
 * *Zhening Liu, Xinjie Zhang, Jiawei Shao, Zehong Lin, Jun Zhang*, Bidirectional Stereo Image Compression with Cross-Dimensional Entropy Model. [[paper]](https://arxiv.org/abs/2407.10632)[[code]](https://github.com/LIUZhening111/BiSIC)
-  * 
+
 ### NeurIPS
 
 ### ICLR
@@ -39,6 +39,15 @@ Recent papers and codes related to learning-based data compression, including im
 * *Julius Kunze, Daniel Severo, Giulio Zani, Jan-Willem van de Meent, James Townsend*, Entropy Coding of Unordered Data Structures. [[paper]](https://openreview.net/forum?id=afQuNt3Ruh)[[code]](https://github.com/juliuskunze/shuffle-coding)
 
 ### ICML
+* *Yiyang Ma, Wenhan Yang, Jiaying Liu*, Correcting Diffusion-Based Perceptual Image Compression with Privileged End-to-End Decoder. [[paper]](https://arxiv.org/abs/2404.04916)[[code]](https://realpasu.github.io/CorrDiff_Website/)
+* *Hagyeong Lee, Minkyu Kim, Jun-Hyuk Kim, Seungeon Kim, Dokwan Oh, Jaeho Lee*, Neural Image Compression with Text-guided Encoding for both Pixel-level and Perceptual Fidelity. [[paper]](https://arxiv.org/abs/2403.02944)[[code]](https://github.com/effl-lab/TACO)
+* *Tuan Pham, Stephan Mandt*, Neural NeRF Compression. [[paper]](https://arxiv.org/abs/2406.08943)
+* *Hyomin Kim, Yunhui Jang, Jaeho Lee, Sungsoo Ahn*, Hybrid Neural Representations for Spherical Data. [[paper]](https://arxiv.org/abs/2402.05965)
+* *Chen Zhang, Steven Tin Sui Luo, Jason Chun Lok Li, Yik-Chung Wu, Ngai Wong*, Nonparametric Teaching of Implicit Neural Representations. [[paper]](https://arxiv.org/abs/2405.10531)
+* *Jiaming Zhao, Wenbo Qiao, Peng Zhang, Hui Gao*, Quantum Implicit Neural Representations. [[paper]](https://arxiv.org/abs/2406.03873)
+* *Joseph Shenouda, Yamin Zhou, Robert D. Nowak*, ReLUs Are Sufficient for Learning Implicit Neural Representations. [[paper]](https://arxiv.org/abs/2406.02529)
+* *Hemanth Saratchandran, Sameera Ramasinghe, Violetta Shevchenko, Alexander Long, Simon Lucey*, A sampling theory perspective on activations for implicit neural representations. [[paper]](https://arxiv.org/abs/2402.05427)
+
 
 ### AAAI
 * *Ming Lu, Zhihao Duan, Fengqing Zhu, Zhan Ma*, Deep Hierarchical Video Compression. [[paper]](https://arxiv.org/abs/2312.07126)
