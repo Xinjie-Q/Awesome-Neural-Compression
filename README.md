@@ -13,17 +13,15 @@ Recent papers and codes related to learning-based data compression, including im
 * *Simon Niedermayr, Josef Stumpfegger, Rüdiger Westermann*, Compressed 3D Gaussian Splatting for Accelerated Novel View Synthesis. [[paper]](https://arxiv.org/abs/2401.02436)[[code]](https://github.com/KeKsBoTer/c3dgs/)
 * *Atefeh Khoshkhahtinat, Ali Zafari, Piyush M. Mehta, Nasser M. Nasrabadi*, Laplacian-guided Entropy Model in Neural Codec with Blur-dissipated Synthesis. [[paper]](https://arxiv.org/abs/2403.16258)
 * *Sicheng Li, Hao Li, Yiyi Liao, Lu Yu*, NeRFCodec: Neural Feature Compression Meets Neural Radiance Fields for Memory-efficient Scene Representation. [[paper]](https://arxiv.org/abs/2404.02185)
-* **, Combining Frame and GOP Embeddings for Neural Video Representation.
-* **, Learned Lossless Image Compression based on Bit Plane Slicing.
-* **, Look-Up Table Compression for Efficient Image Restoration.
-* **, Implicit Motion Function.
-* **, Generative Latent Coding for Ultra-Low Bitrate Image Compression.
-* **, Versatile Neural Video Codec.
-
+* *Jens Eirik Saethre, Roberto Azevedo, Christopher Schroers*, Combining Frame and GOP Embeddings for Neural Video Representation. [[paper]](https://studios.disneyresearch.com/2024/06/17/combining-frame-and-gop-embeddings-for-neural-video-representation/)
+* *Zhe Zhang, Huairui Wang, Zhenzhong Chen, Shan Liu*, Learned Lossless Image Compression based on Bit Plane Slicing. [[paper]](https://openaccess.thecvf.com//content/CVPR2024/papers/Zhang_Learned_Lossless_Image_Compression_based_on_Bit_Plane_Slicing_CVPR_2024_paper.pdf)[[code]](https://github.com/zz022/arib-bps)
+* *Zhaoyang Jia, Jiahao Li, Bin Li, Houqiang Li, Yan Lu*, Generative Latent Coding for Ultra-Low Bitrate Image Compression. [[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Jia_Generative_Latent_Coding_for_Ultra-Low_Bitrate_Image_Compression_CVPR_2024_paper.pdf)
 
 
 ### ECCV
-
+* *Xinjie Zhang, Xingtong Ge, Tongda Xu, Dailan He, Yan Wang, Hongwei Qin, Guo Lu, Jing Geng, Jun Zhang*, GaussianImage: 1000 FPS Image Representation and Compression by 2D Gaussian Splatting. [[paper]](https://arxiv.org/abs/2402.18152)[[code]](https://github.com/Xinjie-Q/GaussianImage)
+* *Zhening Liu, Xinjie Zhang, Jiawei Shao, Zehong Lin, Jun Zhang*, Bidirectional Stereo Image Compression with Cross-Dimensional Entropy Model. [[paper]](https://arxiv.org/abs/2407.10632)[[code]](https://github.com/LIUZhening111/BiSIC)
+  * 
 ### NeurIPS
 
 ### ICLR
