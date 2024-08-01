@@ -60,6 +60,8 @@ Recent papers and codes related to learning-based data compression, including im
 * *Miaohui Wang, Runnan Huang, Hengjin Dong, Di Lin, Song Yun, Wuyuan Xie*, msLPCC: A Multimodal-Driven Scalable Framework for Deep LiDAR Point Cloud Compression. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28362)
 
 ### IJCAI
+* *Sheng Shen, Huanjing Yue, Jingyu Yang*, Efficient Screen Content Image Compression via Superpixel-based Content Aggregation and Dynamic Feature Fusion.
+
 
 ## 2023
 ### CVPR
